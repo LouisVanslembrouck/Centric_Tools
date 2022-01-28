@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Poslog_Sort.csproj": {}
+    "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Poslog_Sort.csproj": {
+    "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Poslog_Sort.csproj",
+        "projectUniqueName": "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj",
         "projectName": "Poslog_Sort",
-        "projectPath": "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Poslog_Sort.csproj",
+        "projectPath": "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj",
         "packagesPath": "C:\\Users\\Lvanslem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\obj\\",
+        "outputPath": "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Centric_Tools\\Poslog_sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lvanslem\\AppData\\Roaming\\NuGet\\NuGet.Config"
