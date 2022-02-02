@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,7 +35,7 @@ namespace PoslogSort
 
                     try{
                         Row Items = returnAll(file);
-                        var newLine = $"{Items.storeId},{Items.posNumber},{Items.date},{Items.seq},{Items.amount}";
+                        var newLine = $"{Items.storeId},{Items.posNumber},{Items.date},{Items.seq},{Items.amount},{Items.count}";
                         w.WriteLine(newLine);
                         Console.WriteLine($"Handled {file}");
                         counter++;
@@ -63,6 +63,7 @@ namespace PoslogSort
             XmlNodeList totalAmount = doc.GetElementsByTagName("Total");
             XmlNodeList posNr = doc.GetElementsByTagName("WorkstationID");
             XmlNodeList Date = doc.GetElementsByTagName("EndDateTime");
+            XmlNodeList counter = doc.GetElementsByTagName("Tender");
 
             Row Item = new Row
                 {
@@ -71,6 +72,7 @@ namespace PoslogSort
                     amount = totalAmount[0].InnerXml,
                     posNumber = posNr[0].InnerXml,
                     date = Date[0].InnerXml,
+                    count = counter.Count.ToString()
                 };
 
             return Item;
