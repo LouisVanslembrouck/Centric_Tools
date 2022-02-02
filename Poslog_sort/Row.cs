@@ -7,5 +7,6 @@ namespace PoslogSort
         public string amount {get; set;}
         public string posNumber {get; set;}
         public string date {get; set;}
+        public string count {get; set;}
     }
 }
