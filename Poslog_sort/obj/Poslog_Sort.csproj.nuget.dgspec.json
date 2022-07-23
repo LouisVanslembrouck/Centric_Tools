@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj": {}
+    "C:\\Users\\louis\\source\\repos\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj": {
+    "C:\\Users\\louis\\source\\repos\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj",
+        "projectUniqueName": "C:\\Users\\louis\\source\\repos\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj",
         "projectName": "Poslog_Sort",
-        "projectPath": "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj",
-        "packagesPath": "C:\\Users\\Lvanslem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lvanslem\\Documents\\Poslog_Sort\\Centric_Tools\\Poslog_sort\\obj\\",
+        "projectPath": "C:\\Users\\louis\\source\\repos\\Centric_Tools\\Poslog_sort\\Poslog_Sort.csproj",
+        "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\louis\\source\\repos\\Centric_Tools\\Poslog_sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lvanslem\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
