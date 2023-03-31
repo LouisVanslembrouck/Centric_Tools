@@ -43,3 +43,18 @@ C:\Users\Lvanslem\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6
 C:\Users\Lvanslem\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\ref\Poslog_Sort.dll
 C:\Users\Lvanslem\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\Poslog_Sort.pdb
 C:\Users\Lvanslem\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\Poslog_Sort.genruntimeconfig.cache
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\bin\Debug\net6.0\Poslog_Sort.exe
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\bin\Debug\net6.0\Poslog_Sort.deps.json
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\bin\Debug\net6.0\Poslog_Sort.runtimeconfig.json
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\bin\Debug\net6.0\Poslog_Sort.dll
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\bin\Debug\net6.0\Poslog_Sort.pdb
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\Poslog_Sort.csproj.AssemblyReference.cache
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\Poslog_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\Poslog_Sort.AssemblyInfoInputs.cache
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\Poslog_Sort.AssemblyInfo.cs
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\Poslog_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\Poslog_Sort.dll
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\refint\Poslog_Sort.dll
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\Poslog_Sort.pdb
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\Poslog_Sort.genruntimeconfig.cache
+C:\Users\Lvanslem\OneDrive - Centric\Documents\Centric\Documents\Poslog_Sort\Centric_Tools\Poslog_sort\obj\Debug\net6.0\ref\Poslog_Sort.dll

@@ -22,16 +22,25 @@ namespace PoslogSort
         {
             string cwd = Directory.GetCurrentDirectory();
             string outFile = Path.Combine(cwd, "output.csv");
+            string failedDir = Path.Combine(cwd, "Failed");
             int counter = 0;
             int failed = 0;
 
-            if(!File.Exists(outFile)){
-                File.Create(outFile);
+            if(!File.Exists(outFile)) {
+                using(var file = File.Create(outFile)) {
+                    Console.WriteLine("Output file did not exist, created the file.");
+                }
             }
 
-            using(var w = new StreamWriter(outFile)){
+            if (!Directory.Exists(failedDir))
+            {
+                Directory.CreateDirectory(failedDir);
+                Console.WriteLine("Failed folder did not exist, created the folder");
+            }
 
-                foreach(string file in Directory.GetFiles(cwd, "*.xml")){
+            using (var w = new StreamWriter(outFile)){
+
+                foreach(string file in Directory.GetFiles(cwd, "*.xml*")){
 
                     try{
                         Row Items = returnAll(file);
@@ -41,8 +50,13 @@ namespace PoslogSort
                         counter++;
                     }
                     catch(Exception e){
-                        Console.WriteLine($"{e.Message}");
+
+                        Console.WriteLine($"Failed to read {Path.GetFileName(file)}, moving it to Failed folder.");
+
+                        File.Copy(file, Path.Combine(failedDir, Path.GetFileName(file)));
+
                         failed++;
+
                         continue;
                     }
                 }    
@@ -64,6 +78,7 @@ namespace PoslogSort
             XmlNodeList posNr = doc.GetElementsByTagName("WorkstationID");
             XmlNodeList Date = doc.GetElementsByTagName("EndDateTime");
             XmlNodeList counter = doc.GetElementsByTagName("Tender");
+            XmlNodeList ticketid = doc.GetElementsByTagName("centric:UUID");
 
             Row Item = new Row
                 {
@@ -72,7 +87,8 @@ namespace PoslogSort
                     amount = totalAmount[0].InnerXml,
                     posNumber = posNr[0].InnerXml,
                     date = Date[0].InnerXml,
-                    count = counter.Count.ToString()
+                    count = counter.Count.ToString(),
+                    id = ticketid[0].InnerXml
                 };
 
             return Item;
