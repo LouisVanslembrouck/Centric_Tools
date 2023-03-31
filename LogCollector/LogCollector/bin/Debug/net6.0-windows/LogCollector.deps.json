@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LogCollector/1.0.0": {
+        "dependencies": {
+          "WinSCP": "5.21.7"
+        },
+        "runtime": {
+          "LogCollector.dll": {}
+        }
+      },
+      "WinSCP/5.21.7": {
+        "runtime": {
+          "lib/netstandard2.0/WinSCPnet.dll": {
+            "assemblyVersion": "1.12.0.12963",
+            "fileVersion": "1.12.0.12963"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogCollector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinSCP/5.21.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W0eeldwQfYGd4eAcaE0QosgkPP6KHRytQe4F2JmGx4dYXmDA9h6F6PO8MOMPD1sLghp1d5m2z4LEEcRooU+U0g==",
+      "path": "winscp/5.21.7",
+      "hashPath": "winscp.5.21.7.nupkg.sha512"
+    }
+  }
+}
