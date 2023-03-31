@@ -15,6 +15,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using WinSCP;
 using System.Security.Cryptography;
+using System.Text.RegularExpressions;
 using static System.Collections.Specialized.BitVector32;
 using System.IO.Packaging;
 using System.Net.NetworkInformation;
@@ -37,6 +38,7 @@ namespace LogCollector
 
         // 256 bit encryption key.
         public static string Secretkey = "eThWmZq4t7w!z%C&F)J@NcRfUjXn2r5u";
+        public static string pattern = @"\d+"; // regular expression to match one or more digits
 
 
         // Connect to the remote host to download the desired logfiles.
@@ -54,16 +56,13 @@ namespace LogCollector
             try
             {
 
-                string pwd = GetPassword(RemoteHost);
-                string user = GetUser(RemoteHost);
-
                 // Set up session options
                 SessionOptions sessionOptions = new SessionOptions
                 {
                     Protocol = Protocol.Sftp,
                     HostName = RemoteHost,
-                    UserName = user,
-                    Password = pwd
+                    UserName = DecryptCredentials(GetCredentials(RemoteHost),Secretkey).Item1,
+                    Password = DecryptCredentials(GetCredentials(RemoteHost), Secretkey).Item2
                 };
 
                 // Create session instance
@@ -96,7 +95,6 @@ namespace LogCollector
 
 
         // Log an input string to the logfile.
-
         public void Log(string input)
         {
 
@@ -122,27 +120,35 @@ namespace LogCollector
 
         
         // Get the password based on the hostname.
-
-        public string GetPassword(string hostname)
+        public static string GetCredentials(string hostname)
         {
 
             // if hoogvliet, use centric_dev credential
             // otherwise use adminxxxx
+            if (hostname.StartsWith("hvwnl"))
+            {
+                string user = "Centric_Dev";
+                string pwd = "syc2hvwnl*ved";
 
-            return "";
+                return EncryptCredential(user, pwd, Secretkey);
+
+            } else
+            {
+                // Use regex to extract numbers from hostname.
+                MatchCollection matches = Regex.Matches(hostname, pattern);
+                string result = "";
+
+                foreach (Match match in matches)
+                {
+                    result += match.Value;
+                }
+
+                string user = "root";
+                string pwd = string.Concat("admin",result);
+
+                return EncryptCredential(user, pwd, Secretkey);
+            }
         }
-
-        // Get the user based on the hostname.
-
-        public string GetUser(string hostname)
-        {
-
-            // if hoogvliet, use centric_dev
-            // otherwise use root
-
-            return "root";
-        }
-
 
         // Encrypt the credentials.
         public static string EncryptCredential(string username, string password, string key)
