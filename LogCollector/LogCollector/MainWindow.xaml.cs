@@ -20,6 +20,7 @@ using static System.Collections.Specialized.BitVector32;
 using System.IO.Packaging;
 using System.Net.NetworkInformation;
 
+
 namespace LogCollector
 {
     /// <summary>
@@ -35,15 +36,18 @@ namespace LogCollector
         // Create required directories and files.
         public string outputDir = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "Output");
         public string logfile = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "Log.txt");
+        public static string basePath = @"C:\Program Files(x86)\Centric Retail Solutions\";
+        public static string JSONBasePath = @"C:\Centric\backup\transactionprocessing\";
+        public static string POSLogBasePath = @"C:\Centric\backup\OBP\";
 
         // 256 bit encryption key.
         public static string Secretkey = "eThWmZq4t7w!z%C&F)J@NcRfUjXn2r5u";
-        public static string pattern = @"\d+"; // regular expression to match one or more digits
+        // regular expression to match one or more digits
+        public static string pattern = @"\d+";
 
 
         // Connect to the remote host to download the desired logfiles.
-
-        public void Button_Click(object sender, RoutedEventArgs e)
+        public void DownloadFile(object sender, RoutedEventArgs e)
         {
 
             string RemoteHost = HostnameInput.Text;
@@ -118,7 +122,7 @@ namespace LogCollector
             }
         }
 
-        
+
         // Get the password based on the hostname.
         public static string GetCredentials(string hostname)
         {
@@ -149,6 +153,7 @@ namespace LogCollector
                 return EncryptCredential(user, pwd, Secretkey);
             }
         }
+
 
         // Encrypt the credentials.
         public static string EncryptCredential(string username, string password, string key)
