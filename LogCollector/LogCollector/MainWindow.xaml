@@ -5,24 +5,18 @@
         Title="Logcollector" Height="250" Width="400">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="34*"/>
-            <ColumnDefinition Width="37*"/>
+            <ColumnDefinition Width="150*"/>
             <ColumnDefinition Width="160*"/>
-            <ColumnDefinition Width="53*"/>
-            <ColumnDefinition Width="116*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <TextBox Grid.Row="3" Margin="10,10,114,195" x:Name="HostnameInput" Grid.ColumnSpan="3"/>
-        <ComboBox Name="Location" RenderTransformOrigin="4.462,2.002" Grid.ColumnSpan="3" Margin="10,44,114,164" Grid.Row="3" SelectedItem="{Binding SelectedOption}">
+        <TextBox Grid.Row="3" Margin="10,10,114,195" x:Name="HostnameInput" Grid.ColumnSpan="2"/>
+        <ComboBox Name="Location" RenderTransformOrigin="4.462,2.002" Grid.ColumnSpan="2" Margin="10,44,114,164" Grid.Row="3" SelectedItem="{Binding SelectedOption}">
             <ComboBoxItem>Provider</ComboBoxItem>
             <ComboBoxItem>Cloud Peripherals</ComboBoxItem>
             <ComboBoxItem>TransactionProcessor</ComboBoxItem>
         </ComboBox>
-        <Button Grid.Row="3" Margin="5,120,5,10" Content="Retrieve File" Click="DownloadFile" Grid.ColumnSpan="5"/>
+        <Button Grid.Row="3" Margin="5,180,5,25" Content="Retrieve File" Click="DownloadFile" Grid.ColumnSpan="5"/>
     </Grid>
 </Window>

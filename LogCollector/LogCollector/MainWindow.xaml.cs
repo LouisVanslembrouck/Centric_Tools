@@ -131,8 +131,8 @@ namespace LogCollector
             // otherwise use adminxxxx
             if (hostname.StartsWith("hvwnl"))
             {
-                string user = "Centric_Dev";
-                string pwd = "syc2hvwnl*ved";
+                string user = "CENTRIC_DEV";
+                string pwd = "syc2hvnl*ved";
 
                 return EncryptCredential(user, pwd, Secretkey);
 
