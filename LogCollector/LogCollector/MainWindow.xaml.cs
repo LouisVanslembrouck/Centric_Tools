@@ -31,6 +31,8 @@ namespace LogCollector
         public MainWindow()
         {
             InitializeComponent();
+
+            Log("Application started.");
         }
 
         // Create required directories and files.
@@ -55,6 +57,7 @@ namespace LogCollector
             if (!Directory.Exists(outputDir))
             {
                 Directory.CreateDirectory(outputDir);
+                Log("Created output directory.");
             }
 
             try
@@ -76,6 +79,7 @@ namespace LogCollector
                 {
                     // Connect
                     session.Open(sessionOptions);
+                    Log($"Connected to {RemoteHost}.");
 
                     // Download file
                     session.GetFiles(RemoteHost, outputDir).Check();
@@ -89,6 +93,7 @@ namespace LogCollector
                 {
                     // Disconnect
                     session.Dispose();
+                    Log($"Closed the connection to {RemoteHost}.");
                 }
             }
             catch (Exception ex)
@@ -105,6 +110,7 @@ namespace LogCollector
             if (!File.Exists(logfile))
             {
                 File.Create(logfile);
+                Log("Created logfile.");
             }
 
             using (var w = new StreamWriter(logfile))
