@@ -113,7 +113,7 @@ namespace LogCollector
                 try
                 {
                     var newLine = input.ToString();
-                    w.WriteLineAsync(newLine);
+                    w.WriteLineAsync(string.Concat(DateTime.Now, ": ", newLine));
                 }
                 catch(Exception e)
                 {
@@ -148,7 +148,7 @@ namespace LogCollector
                 }
 
                 string user = "root";
-                string pwd = string.Concat("admin",result);
+                string pwd = string.Concat("admin",result.Substring(0,4));
 
                 return EncryptCredential(user, pwd, Secretkey);
             }
