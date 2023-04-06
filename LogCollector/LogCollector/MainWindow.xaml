@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Class="LogCollector.MainWindow"
         Title="Logcollector" Height="225" Width="250">
-    <Grid RenderTransformOrigin="0.553,0.501">
+    <Grid RenderTransformOrigin="0.553,0.501" Margin="2,0,-2,-1">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="150*"/>
             <ColumnDefinition Width="160*"/>
@@ -14,10 +14,11 @@
         </Grid.RowDefinitions>
         <TextBox Margin="10,10,81,58" x:Name="HostnameInput" Grid.ColumnSpan="2"/>
         <Button Margin="53,10,10,58" Content="Download" Click="DownloadFile" Grid.Column="1"/>
-        <CheckBox Content="Cloud Peripherals" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Checked="CloudPeripherals" Grid.ColumnSpan="2" Width="139"/>
-        <CheckBox Content="Touchpoint Provider" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" Checked="Provider" Grid.ColumnSpan="2" Width="139"/>
-        <CheckBox Content="Transaction Processor" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" Checked="TransactionProcessor" Grid.RowSpan="2" Grid.ColumnSpan="2" Width="145"/>
-        <CheckBox Content="POSLog" HorizontalAlignment="Left" Margin="10,7,0,0" VerticalAlignment="Top" Checked="POSLog" Grid.Row="1" Grid.ColumnSpan="2" Width="139"/>
-        <CheckBox Content="JSON" HorizontalAlignment="Left" Margin="10,27,0,0" VerticalAlignment="Top" Checked="JSON" Grid.Row="1" Grid.ColumnSpan="2" Width="139"/>
+        <CheckBox Content="Cloud Peripherals" HorizontalAlignment="Left" Margin="10,76,0,0" VerticalAlignment="Top" Checked="CloudPeripherals" Grid.ColumnSpan="2" Width="139" Grid.RowSpan="2"/>
+        <CheckBox Content="Touchpoint Provider" HorizontalAlignment="Left" Margin="10,8,0,0" VerticalAlignment="Top" Checked="Provider" Grid.ColumnSpan="2" Width="139" Grid.Row="1"/>
+        <CheckBox Content="Transaction Processor" HorizontalAlignment="Left" Margin="10,28,0,0" VerticalAlignment="Top" Checked="TransactionProcessor" Grid.ColumnSpan="2" Width="145" Grid.Row="1"/>
+        <CheckBox Content="POSLog" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" Checked="POSLog" Grid.Row="1" Grid.ColumnSpan="2" Width="139"/>
+        <CheckBox Content="JSON" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top" Checked="JSON" Grid.Row="1" Grid.ColumnSpan="2" Width="139"/>
+        <DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,41,0,0" Grid.ColumnSpan="2" Width="160" Name="datePicker" SelectedDate="2023-01-01" />
     </Grid>
 </Window>

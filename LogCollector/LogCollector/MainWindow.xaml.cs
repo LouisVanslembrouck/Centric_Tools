@@ -32,7 +32,8 @@ namespace LogCollector
         {
             InitializeComponent();
 
-            Log("Application started.");
+            Log("Application started.")
+
         }
 
         // Create required directories and files.
@@ -41,7 +42,7 @@ namespace LogCollector
         public static string basePath = @"C:\logging";
         public static string JSONBasePath = @"C:\Centric\backup\transactionprocessing\";
         public static string POSLogBasePath = @"C:\Centric\backup\OBP\";
-        public static string baseFileName = "Lognet*.txt";
+        public static string baseFileName = "lognet.txt*";
 
         // 256 bit encryption key.
         public static string Secretkey = "eThWmZq4t7w!z%C&F)J@NcRfUjXn2r5u";
@@ -69,7 +70,7 @@ namespace LogCollector
                 {
                     Protocol = Protocol.Sftp,
                     HostName = RemoteHost,
-                    UserName = DecryptCredentials(GetCredentials(RemoteHost),Secretkey).Item1,
+                    UserName = DecryptCredentials(GetCredentials(RemoteHost), Secretkey).Item1,
                     Password = DecryptCredentials(GetCredentials(RemoteHost), Secretkey).Item2
                 };
 
@@ -122,7 +123,7 @@ namespace LogCollector
                     var newLine = input.ToString();
                     w.WriteLineAsync(string.Concat(DateTime.Now, ": ", newLine));
                 }
-                catch(Exception e)
+                catch (Exception e)
                 {
                     Console.WriteLine(e.Message);
                 }
@@ -143,7 +144,8 @@ namespace LogCollector
 
                 return EncryptCredential(user, pwd, Secretkey);
 
-            } else
+            }
+            else
             {
                 // Use regex to extract numbers from hostname.
                 MatchCollection matches = Regex.Matches(hostname, pattern);
@@ -155,7 +157,7 @@ namespace LogCollector
                 }
 
                 string user = "root";
-                string pwd = string.Concat("admin",result.Substring(0,4));
+                string pwd = string.Concat("admin", result.Substring(0, 4));
 
                 return EncryptCredential(user, pwd, Secretkey);
             }
@@ -184,7 +186,7 @@ namespace LogCollector
 
 
         // Decrypt the credentials.
-        public static Tuple<string,string> DecryptCredentials(string EncryptedCredentials, string key)
+        public static Tuple<string, string> DecryptCredentials(string EncryptedCredentials, string key)
         {
             byte[] encryptedBytes = Convert.FromBase64String(EncryptedCredentials);
             byte[] plainBytes;
@@ -204,30 +206,37 @@ namespace LogCollector
             return new Tuple<string, string>(parts[0], parts[1]);
         }
 
-        
+
         private void CloudPeripherals(object sender, RoutedEventArgs e)
         {
-            // append to the list of desired logfiles.
+            // Append to the list of desired logfiles.
+            // Get the date from the date picker to only download files from that date.
+            string filepath = string.Concat(basePath, "CloudPeripherals.ProviderService", baseFileName);
         }
 
         private void Provider(object sender, RoutedEventArgs e)
         {
             // append to the list of desired logfiles.
+            // Get the date from the date picker to only download files from that date.
+            string filepath = string.Concat(basePath, "Touchpoint.Provider", baseFileName);
         }
 
         private void TransactionProcessor(object sender, RoutedEventArgs e)
         {
             // append to the list of desired logfiles.
+            string filepath = string.Concat(basePath, "Touchpoint.TransactionProcessor", baseFileName);
         }
 
         private void POSLog(object sender, RoutedEventArgs e)
         {
             // append to the list of desired logfiles.
+            string file = string.Concat(POSLogBasePath);
         }
 
         private void JSON(object sender, RoutedEventArgs e)
         {
             // append to the list of desired logfiles.
+            string file = string.Concat(POSLogBasePath);
         }
     }
 }
