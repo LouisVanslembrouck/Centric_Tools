@@ -38,9 +38,10 @@ namespace LogCollector
         // Create required directories and files.
         public string outputDir = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "Output");
         public string logfile = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "Log.txt");
-        public static string basePath = @"C:\Program Files(x86)\Centric Retail Solutions\";
+        public static string basePath = @"C:\logging";
         public static string JSONBasePath = @"C:\Centric\backup\transactionprocessing\";
         public static string POSLogBasePath = @"C:\Centric\backup\OBP\";
+        public static string baseFileName = "Lognet*.txt";
 
         // 256 bit encryption key.
         public static string Secretkey = "eThWmZq4t7w!z%C&F)J@NcRfUjXn2r5u";
@@ -201,6 +202,32 @@ namespace LogCollector
 
             string[] parts = Encoding.UTF8.GetString(plainBytes).Split(':');
             return new Tuple<string, string>(parts[0], parts[1]);
+        }
+
+        
+        private void CloudPeripherals(object sender, RoutedEventArgs e)
+        {
+            // append to the list of desired logfiles.
+        }
+
+        private void Provider(object sender, RoutedEventArgs e)
+        {
+            // append to the list of desired logfiles.
+        }
+
+        private void TransactionProcessor(object sender, RoutedEventArgs e)
+        {
+            // append to the list of desired logfiles.
+        }
+
+        private void POSLog(object sender, RoutedEventArgs e)
+        {
+            // append to the list of desired logfiles.
+        }
+
+        private void JSON(object sender, RoutedEventArgs e)
+        {
+            // append to the list of desired logfiles.
         }
     }
 }
