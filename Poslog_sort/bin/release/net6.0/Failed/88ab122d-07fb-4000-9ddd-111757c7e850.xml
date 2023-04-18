@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>02.0204</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>1696</SequenceNumber>
+    <BeginDateTime>2022-02-26T16:06:12.804+01:00</BeginDateTime>
+    <EndDateTime>2022-02-26T16:06:56.349+01:00</EndDateTime>
+    <OperatorID OperatorName="Linda ">2010003</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>             Pipoos Antwerpen</ReceiptLine>
+      <ReceiptLine>             Jezusstraat 18a</ReceiptLine>
+      <ReceiptLine>             B2000 Antwerpen</ReceiptLine>
+      <ReceiptLine>             Tel: +3232262650</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>29646                                     </ReceiptLine>
+      <ReceiptLine>stickers 16 vellen - bruiloft             </ReceiptLine>
+      <ReceiptLine>2 stuks a                 4,99       9,98 </ReceiptLine>
+      <ReceiptLine>Opruiming                 2,99-      5,98-</ReceiptLine>
+      <ReceiptLine>Opruiming                            3,99-</ReceiptLine>
+      <ReceiptLine>Sale                                 2,00-</ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 2 artikelen                   1,99-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Retour Contant                       2,00-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x      1,64  =        0,35 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>       U bent geholpen door: Linda </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>02.0204/01 *******   1696 26-02-2022 16:06</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>    Win 100, 50 of 20 euro shoptegoed!</ReceiptLine>
+      <ReceiptLine>      Ga naar pipoos.com/nieuwsbrief</ReceiptLine>
+      <ReceiptLine>meld je aan en maak automatisch elke maand</ReceiptLine>
+      <ReceiptLine>                   kans</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>         Verzegelingsnr.:16744588</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">88ab122d-07fb-4000-9ddd-111757c7e850</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2633989771043</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">204</centric:RetailStoreExternalReference>
+    <centric:NumCheckSum xmlns:centric="http://www.centric.eu/POSLog">16744588</centric:NumCheckSum>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2022-02-26T16:06:12.789+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320183652920</POSItemID>
+          </POSIdentity>
+          <ItemID>29646</ItemID>
+          <MerchandiseHierarchy Level="3">001.4200.4261</MerchandiseHierarchy>
+          <Description>stickers 16 vellen - bruiloft</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.99</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">4.99</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Linda " EmployeeID="2010003" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountItem">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">5.98</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9020</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.99</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2</Amount>
+            <PromotionID>201805002</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805002</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Sale</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.99</TaxableAmount>
+            <Amount Currency="EUR">0.35</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320183652920</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <Discount>
+          <Amount>1.99</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2022-02-26T16:06:50.656+01:00</BeginDateTime>
+        <Tender centric:Classification="500.9500.5000" TypeCode="Sale" TenderType="centric:Rounding" xmlns:centric="http://www.centric.eu/POSLog">
+          <Amount Currency="EUR">0.01</Amount>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2022-02-26T16:06:50.656+01:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8000" TypeCode="Refund" TenderType="Cash" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>01</TenderID>
+          <Amount Currency="EUR">2</Amount>
+          <centric:Description>Contant</centric:Description>
+        </Tender>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

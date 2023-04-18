@@ -1,0 +1,787 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>01.0133</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>1102</SequenceNumber>
+    <BeginDateTime>2021-11-02T11:38:56.273+01:00</BeginDateTime>
+    <EndDateTime>2021-11-02T11:42:06.962+01:00</EndDateTime>
+    <OperatorID OperatorName="Carla ">1630</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>            Pipoos Hazerswoude</ReceiptLine>
+      <ReceiptLine>               Rijndijk 2e</ReceiptLine>
+      <ReceiptLine>       2394AH Hazerswoude-Rijndijk</ReceiptLine>
+      <ReceiptLine>            Tel: +31713415430</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>26775                                     </ReceiptLine>
+      <ReceiptLine>Leerverf 40 ml- Roodbruin                 </ReceiptLine>
+      <ReceiptLine>2 stuks a                 4,99       9,98 </ReceiptLine>
+      <ReceiptLine>Opruiming                            2,06-</ReceiptLine>
+      <ReceiptLine>Sale                                 5,00-</ReceiptLine>
+      <ReceiptLine>26772                                     </ReceiptLine>
+      <ReceiptLine>Leerverf 40 ml- Zwart                     </ReceiptLine>
+      <ReceiptLine>3 stuks a                 4,99      14,97 </ReceiptLine>
+      <ReceiptLine>Opruiming                            3,09-</ReceiptLine>
+      <ReceiptLine>Sale                                 7,47-</ReceiptLine>
+      <ReceiptLine>26773                                     </ReceiptLine>
+      <ReceiptLine>Leerverf 40 ml- Goudbruin                 </ReceiptLine>
+      <ReceiptLine>2 stuks a                 4,99       9,98 </ReceiptLine>
+      <ReceiptLine>Opruiming                            2,06-</ReceiptLine>
+      <ReceiptLine>Sale                                 4,99-</ReceiptLine>
+      <ReceiptLine>26774                                     </ReceiptLine>
+      <ReceiptLine>Leerverf 40 ml- Donkerbruin          4,99 </ReceiptLine>
+      <ReceiptLine>Opruiming                            1,03-</ReceiptLine>
+      <ReceiptLine>Sale                                 2,50-</ReceiptLine>
+      <ReceiptLine>26776                                     </ReceiptLine>
+      <ReceiptLine>Leervet- 50 ml                            </ReceiptLine>
+      <ReceiptLine>2 stuks a                 4,99       9,98 </ReceiptLine>
+      <ReceiptLine>Opruiming                 2,99-      5,98-</ReceiptLine>
+      <ReceiptLine>Opruiming                            0,83-</ReceiptLine>
+      <ReceiptLine>Sale                                 2,00-</ReceiptLine>
+      <ReceiptLine>28534                                     </ReceiptLine>
+      <ReceiptLine>ballonnen latex 26 cm - lime 1       2,49 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,51-</ReceiptLine>
+      <ReceiptLine>29516                                     </ReceiptLine>
+      <ReceiptLine>Panduro science edelstenen          19,99 </ReceiptLine>
+      <ReceiptLine>Opruiming                            4,13-</ReceiptLine>
+      <ReceiptLine>01794                                     </ReceiptLine>
+      <ReceiptLine>Crêpepapier - donker groen           0,99 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,20-</ReceiptLine>
+      <ReceiptLine>01795                                     </ReceiptLine>
+      <ReceiptLine>Crêpepapier - licht groen            0,99 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,20-</ReceiptLine>
+      <ReceiptLine>28727                                     </ReceiptLine>
+      <ReceiptLine>Hama midi strijkkralen 1000 st            </ReceiptLine>
+      <ReceiptLine>2 stuks a                 1,79       3,58 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,74-</ReceiptLine>
+      <ReceiptLine>05281                                     </ReceiptLine>
+      <ReceiptLine>Hama midi strijkkralen 1000 st       1,79 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,37-</ReceiptLine>
+      <ReceiptLine>26071                                     </ReceiptLine>
+      <ReceiptLine>Hama midi strijkkralen 1000 st       1,79 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,37-</ReceiptLine>
+      <ReceiptLine>05280                                     </ReceiptLine>
+      <ReceiptLine>Hama midi strijkkralen 1000 st       1,79 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,37-</ReceiptLine>
+      <ReceiptLine>Kwantum aanb. Hama 5=4               1,79-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>10 Zegels                                 </ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 19 artikelen                 37,62 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>PIN                                 37,62 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>------------------------------------------</ReceiptLine>
+      <ReceiptLine> Kopie Kaarthouder</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Terminal: CT083104  Merchant: 21915910  </ReceiptLine>
+      <ReceiptLine>Periode: 1306       Transactie: 00050250</ReceiptLine>
+      <ReceiptLine>Token: 1009130600463483082          </ReceiptLine>
+      <ReceiptLine>Contactloze betaling</ReceiptLine>
+      <ReceiptLine>Maestro (A0000000043060)</ReceiptLine>
+      <ReceiptLine>Kaart: 673336xxxxxxxxx6017</ReceiptLine>
+      <ReceiptLine>Kaartnr: 08     </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>BETALING</ReceiptLine>
+      <ReceiptLine>02/11/2021 11:41    Auth. code:   018I79</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Totaal:    37,62 EUR</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      AKKOORD</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x     31,09  =        6,53 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>       U bent geholpen door: Carla </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>01.0133/01 *******   1102 02-11-2021 11:41</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">e0ca7c8c-1688-402e-a955-d666437a21f9</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2630583357376</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">133</centric:RetailStoreExternalReference>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:38:56.259+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>5714065000145</POSItemID>
+          </POSIdentity>
+          <ItemID>26775</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3029</MerchandiseHierarchy>
+          <Description>Leerverf 40 ml- Roodbruin</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.99</RegularSalesUnitPrice>
+          <ExtendedAmount>4.49</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.5</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountItem">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.5</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9020</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">4.49</TaxableAmount>
+            <Amount Currency="EUR">0.78</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">5714065000145</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem CancelFlag="true">
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:38:56.259+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>5714065000145</POSItemID>
+          </POSIdentity>
+          <ItemID>26775</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3029</MerchandiseHierarchy>
+          <Description>Leerverf 40 ml- Roodbruin</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.99</RegularSalesUnitPrice>
+          <ExtendedAmount>4.49</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.5</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountItem">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.5</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9020</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">4.49</TaxableAmount>
+            <Amount Currency="EUR">0.78</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <ItemLink>1</ItemLink>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">5714065000145</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:39:12.419+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>5714065000145</POSItemID>
+          </POSIdentity>
+          <ItemID>26775</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3029</MerchandiseHierarchy>
+          <Description>Leerverf 40 ml- Roodbruin</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.99</RegularSalesUnitPrice>
+          <ExtendedAmount>2.92</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">7.06</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.06</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">5</Amount>
+            <PromotionID>201805002</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805002</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Sale </centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">2.92</TaxableAmount>
+            <Amount Currency="EUR">0.51</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">5714065000145</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:39:14.238+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>5714065000053</POSItemID>
+          </POSIdentity>
+          <ItemID>26772</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3029</MerchandiseHierarchy>
+          <Description>Leerverf 40 ml- Zwart</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.99</RegularSalesUnitPrice>
+          <ExtendedAmount>4.41</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">10.56</ExtendedDiscountAmount>
+          <Quantity>3</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.09</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">7.47</Amount>
+            <PromotionID>201805002</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805002</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Sale </centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">4.41</TaxableAmount>
+            <Amount Currency="EUR">0.77</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">5714065000053</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:39:19.434+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>5714065000176</POSItemID>
+          </POSIdentity>
+          <ItemID>26773</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3029</MerchandiseHierarchy>
+          <Description>Leerverf 40 ml- Goudbruin</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.99</RegularSalesUnitPrice>
+          <ExtendedAmount>2.93</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">7.05</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.06</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">4.99</Amount>
+            <PromotionID>201805002</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805002</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Sale </centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">2.93</TaxableAmount>
+            <Amount Currency="EUR">0.51</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">5714065000176</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>6</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:39:23.596+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>5714065000114</POSItemID>
+          </POSIdentity>
+          <ItemID>26774</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3029</MerchandiseHierarchy>
+          <Description>Leerverf 40 ml- Donkerbruin</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.99</RegularSalesUnitPrice>
+          <ExtendedAmount>1.46</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">3.53</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.03</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.5</Amount>
+            <PromotionID>201805002</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805002</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Sale </centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.46</TaxableAmount>
+            <Amount Currency="EUR">0.25</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">5714065000114</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>7</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:40:06.217+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>5714065000015</POSItemID>
+          </POSIdentity>
+          <ItemID>26776</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3029</MerchandiseHierarchy>
+          <Description>Leervet- 50 ml</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.99</RegularSalesUnitPrice>
+          <ExtendedAmount>1.17</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">8.81</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountItem">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">5.98</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9020</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.83</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2</Amount>
+            <PromotionID>201805002</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805002</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Sale </centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.17</TaxableAmount>
+            <Amount Currency="EUR">0.2</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">5714065000015</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>8</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:40:45.131+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320188020786</POSItemID>
+          </POSIdentity>
+          <ItemID>28534</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8001</MerchandiseHierarchy>
+          <Description>ballonnen latex 26 cm - lime 1</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>2.49</RegularSalesUnitPrice>
+          <ExtendedAmount>1.98</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.51</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.51</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.98</TaxableAmount>
+            <Amount Currency="EUR">0.34</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320188020786</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>9</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:40:53.913+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320188025637</POSItemID>
+          </POSIdentity>
+          <ItemID>29516</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8019</MerchandiseHierarchy>
+          <Description>Panduro science edelstenen</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>19.99</RegularSalesUnitPrice>
+          <ExtendedAmount>15.86</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">4.13</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">4.13</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">15.86</TaxableAmount>
+            <Amount Currency="EUR">2.74</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320188025637</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>10</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:40:59.127+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8711319005496</POSItemID>
+          </POSIdentity>
+          <ItemID>01794</ItemID>
+          <MerchandiseHierarchy Level="3">001.4000.4003</MerchandiseHierarchy>
+          <Description>Crêpepapier - donker groen</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>0.99</RegularSalesUnitPrice>
+          <ExtendedAmount>0.79</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.2</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.2</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.79</TaxableAmount>
+            <Amount Currency="EUR">0.14</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8711319005496</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>11</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:41:00.963+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8711319005434</POSItemID>
+          </POSIdentity>
+          <ItemID>01795</ItemID>
+          <MerchandiseHierarchy Level="3">001.4000.4003</MerchandiseHierarchy>
+          <Description>Crêpepapier - licht groen</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>0.99</RegularSalesUnitPrice>
+          <ExtendedAmount>0.79</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.2</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.2</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.79</TaxableAmount>
+            <Amount Currency="EUR">0.14</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8711319005434</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>12</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:41:03.671+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>28178207847</POSItemID>
+          </POSIdentity>
+          <ItemID>28727</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8003</MerchandiseHierarchy>
+          <Description>Hama midi strijkkralen 1000 st</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.79</RegularSalesUnitPrice>
+          <ExtendedAmount>2.84</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.74</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.74</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">2.84</TaxableAmount>
+            <Amount Currency="EUR">0.49</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">028178207847</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>13</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:41:09.546+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>28178207113</POSItemID>
+          </POSIdentity>
+          <ItemID>05281</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8003</MerchandiseHierarchy>
+          <Description>Hama midi strijkkralen 1000 st</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.79</RegularSalesUnitPrice>
+          <ExtendedAmount>1.42</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.37</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.37</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.42</TaxableAmount>
+            <Amount Currency="EUR">0.25</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">028178207113</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>14</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:41:15.223+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>28178207373</POSItemID>
+          </POSIdentity>
+          <ItemID>26071</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8003</MerchandiseHierarchy>
+          <Description>Hama midi strijkkralen 1000 st</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.79</RegularSalesUnitPrice>
+          <ExtendedAmount>1.42</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.37</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.37</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.42</TaxableAmount>
+            <Amount Currency="EUR">0.25</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">028178207373</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>15</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:41:18.200+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>28178207106</POSItemID>
+          </POSIdentity>
+          <ItemID>05280</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8003</MerchandiseHierarchy>
+          <Description>Hama midi strijkkralen 1000 st</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.79</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">1.79</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.37</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.79</Amount>
+            <PromotionID>201909004</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201909004</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Kwantum aanb. Hama 5=4</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.37</TaxableAmount>
+            <Amount Currency="EUR">0.06</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">028178207106</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>16</SequenceNumber>
+        <Discount>
+          <Amount>0.37</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>17</SequenceNumber>
+        <BeginDateTime>2021-11-02T11:41:50.007+01:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8130" TypeCode="Sale" TenderType="InternationalMaestro" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>20</TenderID>
+          <Amount Currency="EUR">37.62</Amount>
+          <centric:Description>PIN</centric:Description>
+          <CreditDebit TypeCode="centric:Maestro" CardType="Debit">
+            <PrimaryAccountNumber>Unknown</PrimaryAccountNumber>
+          </CreditDebit>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>18</SequenceNumber>
+        <LoyaltyReward>
+          <PromotionID>100000000</PromotionID>
+          <LoyaltyID Name="Points">1</LoyaltyID>
+          <PointsAwarded Type="Credited">10</PointsAwarded>
+          <centric:PromotionDescription xmlns:centric="http://www.centric.eu/POSLog">Zegels</centric:PromotionDescription>
+        </LoyaltyReward>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

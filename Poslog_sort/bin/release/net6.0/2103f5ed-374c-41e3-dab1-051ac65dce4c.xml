@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>02.0203</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>1689</SequenceNumber>
+    <BeginDateTime>2021-07-14T13:59:14.582+02:00</BeginDateTime>
+    <EndDateTime>2021-07-14T14:01:31.433+02:00</EndDateTime>
+    <OperatorID OperatorName="Maya ">2030027</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>               Pipoos Gent</ReceiptLine>
+      <ReceiptLine>        Shopping Center Gent -Zuid</ReceiptLine>
+      <ReceiptLine>         W. Wilsonplein 4 bus 268</ReceiptLine>
+      <ReceiptLine>                9000 Gent</ReceiptLine>
+      <ReceiptLine>             Tel: +3292343515</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>64350                                     </ReceiptLine>
+      <ReceiptLine>Design slijper                       6,99 </ReceiptLine>
+      <ReceiptLine>Andere reden                         6,22-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           6,23-</ReceiptLine>
+      <ReceiptLine>29977                                     </ReceiptLine>
+      <ReceiptLine>Panduro kleurpotloden - neon         3,99 </ReceiptLine>
+      <ReceiptLine>Andere reden                         3,55-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           3,55-</ReceiptLine>
+      <ReceiptLine>80186                                     </ReceiptLine>
+      <ReceiptLine>Boek Sprookjesbos kleurboek         14,99 </ReceiptLine>
+      <ReceiptLine>980002                                    </ReceiptLine>
+      <ReceiptLine>Plastic tas groot                    0,25 </ReceiptLine>
+      <ReceiptLine>Andere reden                         0,23-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           0,22-</ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 4 artikelen                   6,22 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Contant                             20,00 </ReceiptLine>
+      <ReceiptLine>Retour Contant                      13,80-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 6%       x     14,14  =        0,85 )</ReceiptLine>
+      <ReceiptLine>(BTW 21%      x      7,25  =        1,52 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>       U bent geholpen door: Maya </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>02.0203/01 *******   1689 14-07-2021 14:01</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>         Verzegelingsnr.:94150779</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">2103f5ed-374c-41e3-dab1-051ac65dce4c</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2631068109565</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">203</centric:RetailStoreExternalReference>
+    <centric:NumCheckSum xmlns:centric="http://www.centric.eu/POSLog">94150779</centric:NumCheckSum>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2021-07-14T13:59:14.574+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>64350</POSItemID>
+          </POSIdentity>
+          <ItemID>64350</ItemID>
+          <MerchandiseHierarchy Level="3">001.1000.1019</MerchandiseHierarchy>
+          <Description>Design slijper</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>6.99</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">6.99</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Maya " EmployeeID="2030027" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">6.22</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">6.23</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">5.46</TaxableAmount>
+            <Amount Currency="EUR">0.95</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2021-07-14T13:59:18.949+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320186527591</POSItemID>
+          </POSIdentity>
+          <ItemID>29977</ItemID>
+          <MerchandiseHierarchy Level="3">001.1000.1019</MerchandiseHierarchy>
+          <Description>Panduro kleurpotloden - neon</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.99</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">3.99</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Maya " EmployeeID="2030027" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.55</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.55</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.11</TaxableAmount>
+            <Amount Currency="EUR">0.54</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320186527591</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2021-07-14T13:59:25.235+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>9789045323527</POSItemID>
+          </POSIdentity>
+          <ItemID>80186</ItemID>
+          <MerchandiseHierarchy Level="3">001.1000.1019</MerchandiseHierarchy>
+          <Description>Boek Sprookjesbos kleurboek</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>14.99</RegularSalesUnitPrice>
+          <ExtendedAmount>14.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Maya " EmployeeID="2030027" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">14.99</TaxableAmount>
+            <Amount Currency="EUR">0.85</Amount>
+            <Percent>6</Percent>
+            <TaxRuleID>1</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">9789045323527</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2021-07-14T14:00:46.658+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>980002</POSItemID>
+          </POSIdentity>
+          <ItemID>980002</ItemID>
+          <MerchandiseHierarchy Level="3">012.9000.9004</MerchandiseHierarchy>
+          <Description>Plastic tas groot</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>0.25</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.25</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Maya " EmployeeID="2030027" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.23</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.22</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.20</TaxableAmount>
+            <Amount Currency="EUR">0.03</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <Discount>
+          <Amount>8.77</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>6</SequenceNumber>
+        <BeginDateTime>2021-07-14T14:01:11.526+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8000" TypeCode="Sale" TenderType="Cash" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>01</TenderID>
+          <Amount Currency="EUR">20</Amount>
+          <centric:Description>Contant</centric:Description>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>7</SequenceNumber>
+        <BeginDateTime>2021-07-14T14:01:11.618+02:00</BeginDateTime>
+        <Tender centric:Classification="500.9500.5000" TypeCode="Sale" TenderType="centric:Rounding" xmlns:centric="http://www.centric.eu/POSLog">
+          <Amount Currency="EUR">0.02</Amount>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>8</SequenceNumber>
+        <BeginDateTime>2021-07-14T14:01:11.618+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8000" TypeCode="Refund" TenderType="Cash" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>01</TenderID>
+          <Amount Currency="EUR">13.8</Amount>
+          <centric:Description>Contant</centric:Description>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>9</SequenceNumber>
+        <centric:ActivationVoucher Type="Store" xmlns:centric="http://www.centric.eu/POSLog">
+          <centric:Barcode>00000001</centric:Barcode>
+        </centric:ActivationVoucher>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>10</SequenceNumber>
+        <centric:ActivationVoucher Type="Store" xmlns:centric="http://www.centric.eu/POSLog">
+          <centric:Barcode>00000001</centric:Barcode>
+        </centric:ActivationVoucher>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>11</SequenceNumber>
+        <centric:ActivationVoucher Type="Store" xmlns:centric="http://www.centric.eu/POSLog">
+          <centric:Barcode>00000001</centric:Barcode>
+        </centric:ActivationVoucher>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

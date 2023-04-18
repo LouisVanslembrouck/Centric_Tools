@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>01.0134</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>8313</SequenceNumber>
+    <BeginDateTime>2021-10-01T14:20:44.470+02:00</BeginDateTime>
+    <EndDateTime>2021-10-01T14:21:58.056+02:00</EndDateTime>
+    <OperatorID OperatorName="Anniki ">1848</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>              Pipoos Alkmaar</ReceiptLine>
+      <ReceiptLine>             Langestraat 113</ReceiptLine>
+      <ReceiptLine>              1811JE Alkmaar</ReceiptLine>
+      <ReceiptLine>            Tel: +31728700708</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>22769                                     </ReceiptLine>
+      <ReceiptLine>Hama midi opbergbox                 24,95 </ReceiptLine>
+      <ReceiptLine>10% Aanbieding                       2,50-</ReceiptLine>
+      <ReceiptLine>05302                                     </ReceiptLine>
+      <ReceiptLine>Hama midi strijkkralen 1000 st       1,79 </ReceiptLine>
+      <ReceiptLine>10% Aanbieding                       0,18-</ReceiptLine>
+      <ReceiptLine>05325                                     </ReceiptLine>
+      <ReceiptLine>Hama midi strijkkralen 1000 st       3,99 </ReceiptLine>
+      <ReceiptLine>10% Aanbieding                       0,40-</ReceiptLine>
+      <ReceiptLine>17260                                     </ReceiptLine>
+      <ReceiptLine>Hama midi strijkkralen 1000 st       3,99 </ReceiptLine>
+      <ReceiptLine>10% Aanbieding                       0,40-</ReceiptLine>
+      <ReceiptLine>26378                                     </ReceiptLine>
+      <ReceiptLine>Hama midi strijkkralen 1000 st       2,99 </ReceiptLine>
+      <ReceiptLine>10% Aanbieding                       0,30-</ReceiptLine>
+      <ReceiptLine>05274                                     </ReceiptLine>
+      <ReceiptLine>Hama midi strijkkralen 1000 st       1,79 </ReceiptLine>
+      <ReceiptLine>10% Aanbieding                       0,18-</ReceiptLine>
+      <ReceiptLine>Kwantum aanb. Hama 5=4               1,79-</ReceiptLine>
+      <ReceiptLine>26610                                     </ReceiptLine>
+      <ReceiptLine>Hama midi onderplaat- unicorn        2,50 </ReceiptLine>
+      <ReceiptLine>10% Aanbieding                       0,24-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>8 Zegels                                  </ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 7 artikelen                  36,01 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>PIN                                 36,01 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>------------------------------------------</ReceiptLine>
+      <ReceiptLine> Kopie Kaarthouder</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Terminal: CT083105  Merchant: 21915930  </ReceiptLine>
+      <ReceiptLine>Periode: 1274       Transactie: 00087000</ReceiptLine>
+      <ReceiptLine>Token: 1003127401885280018          </ReceiptLine>
+      <ReceiptLine>Contactloze betaling</ReceiptLine>
+      <ReceiptLine>V PAY (A0000000032020)</ReceiptLine>
+      <ReceiptLine>Kaart: 487512xxxxxxxxx3273</ReceiptLine>
+      <ReceiptLine>Kaartnr: 01     </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>BETALING</ReceiptLine>
+      <ReceiptLine>01/10/2021 14:21    Auth. code:   K9I9I1</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Totaal:    36,01 EUR</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      AKKOORD</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x     29,76  =        6,25 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      U bent geholpen door: Anniki </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>01.0134/01 *******   8313 01-10-2021 14:21</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">f7b28c8f-a069-45c0-9e5d-d7969bfd6751</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2634695918890</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">134</centric:RetailStoreExternalReference>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2021-10-01T14:20:44.464+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320188000191</POSItemID>
+          </POSIdentity>
+          <ItemID>22769</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8019</MerchandiseHierarchy>
+          <Description>Hama midi opbergbox</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>24.95</RegularSalesUnitPrice>
+          <ExtendedAmount>22.45</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">2.5</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anniki " EmployeeID="1848" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.5</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Aanbieding</centric:Description>
+              <centric:UUID>3</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">22.45</TaxableAmount>
+            <Amount Currency="EUR">3.9</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320188000191</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2021-10-01T14:20:49.247+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>28178207328</POSItemID>
+          </POSIdentity>
+          <ItemID>05302</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8003</MerchandiseHierarchy>
+          <Description>Hama midi strijkkralen 1000 st</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.79</RegularSalesUnitPrice>
+          <ExtendedAmount>1.61</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.18</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anniki " EmployeeID="1848" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.18</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Aanbieding</centric:Description>
+              <centric:UUID>3</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.61</TaxableAmount>
+            <Amount Currency="EUR">0.28</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">028178207328</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2021-10-01T14:20:53.692+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>28178207557</POSItemID>
+          </POSIdentity>
+          <ItemID>05325</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8003</MerchandiseHierarchy>
+          <Description>Hama midi strijkkralen 1000 st</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.99</RegularSalesUnitPrice>
+          <ExtendedAmount>3.59</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.4</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anniki " EmployeeID="1848" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.4</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Aanbieding</centric:Description>
+              <centric:UUID>3</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.59</TaxableAmount>
+            <Amount Currency="EUR">0.62</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">028178207557</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2021-10-01T14:20:57.601+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>28178207632</POSItemID>
+          </POSIdentity>
+          <ItemID>17260</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8003</MerchandiseHierarchy>
+          <Description>Hama midi strijkkralen 1000 st</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.99</RegularSalesUnitPrice>
+          <ExtendedAmount>3.59</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.4</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anniki " EmployeeID="1848" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.4</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Aanbieding</centric:Description>
+              <centric:UUID>3</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.59</TaxableAmount>
+            <Amount Currency="EUR">0.62</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">028178207632</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <BeginDateTime>2021-10-01T14:21:00.898+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>28178207908</POSItemID>
+          </POSIdentity>
+          <ItemID>26378</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8003</MerchandiseHierarchy>
+          <Description>Hama midi strijkkralen 1000 st</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>2.99</RegularSalesUnitPrice>
+          <ExtendedAmount>2.69</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.3</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anniki " EmployeeID="1848" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.3</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Aanbieding</centric:Description>
+              <centric:UUID>3</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">2.69</TaxableAmount>
+            <Amount Currency="EUR">0.47</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">028178207908</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>6</SequenceNumber>
+        <BeginDateTime>2021-10-01T14:21:03.553+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>28178207045</POSItemID>
+          </POSIdentity>
+          <ItemID>05274</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8003</MerchandiseHierarchy>
+          <Description>Hama midi strijkkralen 1000 st</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.79</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">1.79</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anniki " EmployeeID="1848" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.18</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Aanbieding</centric:Description>
+              <centric:UUID>3</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.79</Amount>
+            <PromotionID>201909004</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201909004</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Kwantum aanb. Hama 5=4</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.18</TaxableAmount>
+            <Amount Currency="EUR">0.03</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">028178207045</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>7</SequenceNumber>
+        <BeginDateTime>2021-10-01T14:21:20.208+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>28178003159</POSItemID>
+          </POSIdentity>
+          <ItemID>26610</ItemID>
+          <MerchandiseHierarchy Level="3">001.8000.8003</MerchandiseHierarchy>
+          <Description>Hama midi onderplaat- unicorn</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>2.5</RegularSalesUnitPrice>
+          <ExtendedAmount>2.26</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.24</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anniki " EmployeeID="1848" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.24</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Aanbieding</centric:Description>
+              <centric:UUID>3</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">2.26</TaxableAmount>
+            <Amount Currency="EUR">0.39</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">028178003159</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>8</SequenceNumber>
+        <Discount>
+          <Amount>0.18</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>9</SequenceNumber>
+        <BeginDateTime>2021-10-01T14:21:34.523+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8020" TypeCode="Sale" TenderType="CreditDebit" SubTenderType="centric:Unknown" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>20</TenderID>
+          <Amount Currency="EUR">36.01</Amount>
+          <centric:Description>PIN</centric:Description>
+          <CreditDebit TypeCode="centric:Vpay" CardType="Debit">
+            <PrimaryAccountNumber>Unknown</PrimaryAccountNumber>
+          </CreditDebit>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>10</SequenceNumber>
+        <LoyaltyReward>
+          <PromotionID>100000000</PromotionID>
+          <LoyaltyID Name="Points">1</LoyaltyID>
+          <PointsAwarded Type="Credited">8</PointsAwarded>
+          <centric:PromotionDescription xmlns:centric="http://www.centric.eu/POSLog">Zegels</centric:PromotionDescription>
+        </LoyaltyReward>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

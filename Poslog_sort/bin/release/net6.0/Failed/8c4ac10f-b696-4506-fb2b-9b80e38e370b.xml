@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>01.0112</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>4377</SequenceNumber>
+    <BeginDateTime>2021-06-01T13:53:36.392+02:00</BeginDateTime>
+    <EndDateTime>2021-06-01T13:53:51.718+02:00</EndDateTime>
+    <OperatorID OperatorName="Petra ">882</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>               Pipoos Assen</ReceiptLine>
+      <ReceiptLine>           Warenhuis Vanderveen</ReceiptLine>
+      <ReceiptLine>             Koopmansplein 16</ReceiptLine>
+      <ReceiptLine>               9401EL Assen</ReceiptLine>
+      <ReceiptLine>            Tel: +31592313674</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>86762                                     </ReceiptLine>
+      <ReceiptLine>schrift - A5 Palms &amp; Pizza           1,49 </ReceiptLine>
+      <ReceiptLine>100% Opruiming                       1,49-</ReceiptLine>
+      <ReceiptLine>Sale                                 0,75-</ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 1 artikel                     0,75-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Retour Contant                       0,75-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x      0,62  =        0,13 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>       U bent geholpen door: Petra </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>01.0112/01 *******   4377 01-06-2021 13:53</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">8c4ac10f-b696-4506-fb2b-9b80e38e370b</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2630596518511</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">112</centric:RetailStoreExternalReference>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2021-06-01T13:53:36.374+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8717399915205</POSItemID>
+          </POSIdentity>
+          <ItemID>86762</ItemID>
+          <MerchandiseHierarchy Level="3">001.4000.4008</MerchandiseHierarchy>
+          <Description>schrift - A5 Palms &amp; Pizza</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.49</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">1.49</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Petra " EmployeeID="882" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.49</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.75</Amount>
+            <PromotionID>201805002</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805002</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Sale </centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.75</TaxableAmount>
+            <Amount Currency="EUR">0.13</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8717399915205</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <Discount>
+          <Amount>0.75</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2021-06-01T13:53:47.758+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8000" TypeCode="Refund" TenderType="Cash" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>01</TenderID>
+          <Amount Currency="EUR">0.75</Amount>
+          <centric:Description>Contant</centric:Description>
+        </Tender>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

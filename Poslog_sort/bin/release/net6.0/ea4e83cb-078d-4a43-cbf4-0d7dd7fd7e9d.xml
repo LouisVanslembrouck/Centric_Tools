@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>01.0110</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>7442</SequenceNumber>
+    <BeginDateTime>2022-05-17T12:49:47.937+02:00</BeginDateTime>
+    <EndDateTime>2022-05-17T12:51:20.088+02:00</EndDateTime>
+    <OperatorID OperatorName="Femke  ">2636</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>               Pipoos Breda</ReceiptLine>
+      <ReceiptLine>           Lange Brugstraat 43</ReceiptLine>
+      <ReceiptLine>               4811WP Breda</ReceiptLine>
+      <ReceiptLine>            Tel: +31765143866</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>980003                                    </ReceiptLine>
+      <ReceiptLine>Pipoos papieren tas                  0,25 </ReceiptLine>
+      <ReceiptLine>8% Andere reden                      0,02-</ReceiptLine>
+      <ReceiptLine>34987                                     </ReceiptLine>
+      <ReceiptLine>Artist penseelset plat 3 stuks       3,50 </ReceiptLine>
+      <ReceiptLine>8% Andere reden                      0,28-</ReceiptLine>
+      <ReceiptLine>26803                                     </ReceiptLine>
+      <ReceiptLine>No limit spraypaint 200 ml           9,59 </ReceiptLine>
+      <ReceiptLine>8% Andere reden                      0,77-</ReceiptLine>
+      <ReceiptLine>76958                                     </ReceiptLine>
+      <ReceiptLine>Panduro acrylverf mat- Violet        3,39 </ReceiptLine>
+      <ReceiptLine>8% Andere reden                      0,27-</ReceiptLine>
+      <ReceiptLine>Kwantum aanb. Panduro acryl 5=4      3,39-</ReceiptLine>
+      <ReceiptLine>76972                                     </ReceiptLine>
+      <ReceiptLine>Panduro acrylverf mat- Donker        3,39 </ReceiptLine>
+      <ReceiptLine>8% Andere reden                      0,27-</ReceiptLine>
+      <ReceiptLine>76964                                     </ReceiptLine>
+      <ReceiptLine>Panduro acrylverf mat- Turquoi       3,39 </ReceiptLine>
+      <ReceiptLine>8% Andere reden                      0,27-</ReceiptLine>
+      <ReceiptLine>76980                                     </ReceiptLine>
+      <ReceiptLine>Panduro acrylverf mat- Titaniu       3,39 </ReceiptLine>
+      <ReceiptLine>8% Andere reden                      0,27-</ReceiptLine>
+      <ReceiptLine>65339                                     </ReceiptLine>
+      <ReceiptLine>gespannen canvasdoek - 20x20 c            </ReceiptLine>
+      <ReceiptLine>2 stuks a                 4,89       9,78 </ReceiptLine>
+      <ReceiptLine>8% Andere reden                      0,78-</ReceiptLine>
+      <ReceiptLine>24756                                     </ReceiptLine>
+      <ReceiptLine>Vernispenselen 6 stuks               4,99 </ReceiptLine>
+      <ReceiptLine>8% Andere reden                      0,40-</ReceiptLine>
+      <ReceiptLine>76974                                     </ReceiptLine>
+      <ReceiptLine>Panduro acrylverf mat- bruin 1       3,39 </ReceiptLine>
+      <ReceiptLine>8% Andere reden                      0,27-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>8 Zegels                                  </ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 11 artikelen                 38,07 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>PIN                                 38,07 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>------------------------------------------</ReceiptLine>
+      <ReceiptLine> Kopie Kaarthouder</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Terminal: CT083087  Merchant: 21915839  </ReceiptLine>
+      <ReceiptLine>Periode: 2137       Transactie: 00090469</ReceiptLine>
+      <ReceiptLine>Token: 1003213700780406015          </ReceiptLine>
+      <ReceiptLine>Contactloze betaling</ReceiptLine>
+      <ReceiptLine>V PAY (A0000000032020)</ReceiptLine>
+      <ReceiptLine>Kaart: 487512xxxxxxxxx4400</ReceiptLine>
+      <ReceiptLine>Kaartnr: 01     </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>BETALING</ReceiptLine>
+      <ReceiptLine>17/05/2022 12:51    Auth. code:   Z6C1M3</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Totaal:    38,07 EUR</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      AKKOORD</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x     31,46  =        6,61 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      U bent geholpen door: Femke  </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>01.0110/01 *******   7442 17-05-2022 12:51</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>    Win 100, 50 of 20 euro shoptegoed!</ReceiptLine>
+      <ReceiptLine>      Ga naar pipoos.com/nieuwsbrief</ReceiptLine>
+      <ReceiptLine>meld je aan en maak automatisch elke maand</ReceiptLine>
+      <ReceiptLine>                   kans</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">ea4e83cb-078d-4a43-cbf4-0d7dd7fd7e9d</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2634024889891</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">110</centric:RetailStoreExternalReference>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:49:47.929+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>980003</POSItemID>
+          </POSIdentity>
+          <ItemID>980003</ItemID>
+          <MerchandiseHierarchy Level="3">012.9000.9004</MerchandiseHierarchy>
+          <Description>Pipoos papieren tas</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>0.25</RegularSalesUnitPrice>
+          <ExtendedAmount>0.23</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.02</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Femke  " EmployeeID="2636" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.02</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.23</TaxableAmount>
+            <Amount Currency="EUR">0.04</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:49:51.319+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716659087171</POSItemID>
+          </POSIdentity>
+          <ItemID>34987</ItemID>
+          <MerchandiseHierarchy Level="3">001.0560.5600</MerchandiseHierarchy>
+          <Description>Artist penseelset plat 3 stuks</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.5</RegularSalesUnitPrice>
+          <ExtendedAmount>3.22</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.28</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Femke  " EmployeeID="2636" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.28</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.22</TaxableAmount>
+            <Amount Currency="EUR">0.56</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716659087171</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:49:56.257+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320181210269</POSItemID>
+          </POSIdentity>
+          <ItemID>26803</ItemID>
+          <MerchandiseHierarchy Level="3">001.0570.5700</MerchandiseHierarchy>
+          <Description>No limit spraypaint 200 ml</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>9.59</RegularSalesUnitPrice>
+          <ExtendedAmount>8.82</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.77</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Femke  " EmployeeID="2636" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.77</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">8.82</TaxableAmount>
+            <Amount Currency="EUR">1.53</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320181210269</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:50:00.742+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320189212142</POSItemID>
+          </POSIdentity>
+          <ItemID>76958</ItemID>
+          <MerchandiseHierarchy Level="3">001.0300.3000</MerchandiseHierarchy>
+          <Description>Panduro acrylverf mat- Violet</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.39</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">3.39</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Femke  " EmployeeID="2636" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.27</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.39</Amount>
+            <PromotionID>201909011</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201909011</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Kwantum aanb. Panduro acryl 5=4</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.27</TaxableAmount>
+            <Amount Currency="EUR">0.05</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320189212142</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:50:08.120+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320189212296</POSItemID>
+          </POSIdentity>
+          <ItemID>76972</ItemID>
+          <MerchandiseHierarchy Level="3">001.0300.3000</MerchandiseHierarchy>
+          <Description>Panduro acrylverf mat- Donker</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.39</RegularSalesUnitPrice>
+          <ExtendedAmount>3.12</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.27</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Femke  " EmployeeID="2636" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.27</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.12</TaxableAmount>
+            <Amount Currency="EUR">0.54</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320189212296</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>6</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:50:13.393+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320189212210</POSItemID>
+          </POSIdentity>
+          <ItemID>76964</ItemID>
+          <MerchandiseHierarchy Level="3">001.0300.3000</MerchandiseHierarchy>
+          <Description>Panduro acrylverf mat- Turquoi</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.39</RegularSalesUnitPrice>
+          <ExtendedAmount>3.12</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.27</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Femke  " EmployeeID="2636" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.27</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.12</TaxableAmount>
+            <Amount Currency="EUR">0.54</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320189212210</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>7</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:50:18.662+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320189212371</POSItemID>
+          </POSIdentity>
+          <ItemID>76980</ItemID>
+          <MerchandiseHierarchy Level="3">001.0300.3000</MerchandiseHierarchy>
+          <Description>Panduro acrylverf mat- Titaniu</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.39</RegularSalesUnitPrice>
+          <ExtendedAmount>3.12</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.27</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Femke  " EmployeeID="2636" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.27</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.12</TaxableAmount>
+            <Amount Currency="EUR">0.54</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320189212371</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>8</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:50:22.876+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320181910138</POSItemID>
+          </POSIdentity>
+          <ItemID>65339</ItemID>
+          <MerchandiseHierarchy Level="3">001.0570.5701</MerchandiseHierarchy>
+          <Description>gespannen canvasdoek - 20x20 c</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.89</RegularSalesUnitPrice>
+          <ExtendedAmount>9.00</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.78</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Femke  " EmployeeID="2636" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.78</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">9.00</TaxableAmount>
+            <Amount Currency="EUR">1.57</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320181910138</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>9</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:50:32.939+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320185167286</POSItemID>
+          </POSIdentity>
+          <ItemID>24756</ItemID>
+          <MerchandiseHierarchy Level="3">001.0560.5601</MerchandiseHierarchy>
+          <Description>Vernispenselen 6 stuks</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.99</RegularSalesUnitPrice>
+          <ExtendedAmount>4.59</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.4</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Femke  " EmployeeID="2636" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.4</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">4.59</TaxableAmount>
+            <Amount Currency="EUR">0.8</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320185167286</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>10</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:50:36.868+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320189212319</POSItemID>
+          </POSIdentity>
+          <ItemID>76974</ItemID>
+          <MerchandiseHierarchy Level="3">001.0300.3000</MerchandiseHierarchy>
+          <Description>Panduro acrylverf mat- bruin 1</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.39</RegularSalesUnitPrice>
+          <ExtendedAmount>3.12</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.27</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Femke  " EmployeeID="2636" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.27</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Andere reden</centric:Description>
+              <centric:UUID>8</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.12</TaxableAmount>
+            <Amount Currency="EUR">0.54</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320189212319</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>11</SequenceNumber>
+        <Discount>
+          <Amount>0.27</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>12</SequenceNumber>
+        <BeginDateTime>2022-05-17T12:51:06.689+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8020" TypeCode="Sale" TenderType="CreditDebit" SubTenderType="centric:Unknown" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>20</TenderID>
+          <Amount Currency="EUR">38.07</Amount>
+          <centric:Description>PIN</centric:Description>
+          <CreditDebit TypeCode="centric:Vpay" CardType="Debit">
+            <PrimaryAccountNumber>Unknown</PrimaryAccountNumber>
+          </CreditDebit>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>13</SequenceNumber>
+        <LoyaltyReward>
+          <PromotionID>100000000</PromotionID>
+          <LoyaltyID Name="Points">1</LoyaltyID>
+          <PointsAwarded Type="Credited">8</PointsAwarded>
+          <centric:PromotionDescription xmlns:centric="http://www.centric.eu/POSLog">Zegels</centric:PromotionDescription>
+        </LoyaltyReward>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>01.0133</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>7988</SequenceNumber>
+    <BeginDateTime>2022-01-29T15:31:46.582+01:00</BeginDateTime>
+    <EndDateTime>2022-01-29T15:32:52.639+01:00</EndDateTime>
+    <OperatorID OperatorName="Anita  ">892</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>            Pipoos Hazerswoude</ReceiptLine>
+      <ReceiptLine>               Rijndijk 2e</ReceiptLine>
+      <ReceiptLine>       2394AH Hazerswoude-Rijndijk</ReceiptLine>
+      <ReceiptLine>            Tel: +31713415430</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>28031                                     </ReceiptLine>
+      <ReceiptLine>Glazen kraal 8 mm - bruin mat        2,99 </ReceiptLine>
+      <ReceiptLine>Aanbieding                           2,49-</ReceiptLine>
+      <ReceiptLine>Opruiming                            0,05-</ReceiptLine>
+      <ReceiptLine>28998                                     </ReceiptLine>
+      <ReceiptLine>Glaskralen mat 8 mm - roest          2,99 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,30-</ReceiptLine>
+      <ReceiptLine>78004                                     </ReceiptLine>
+      <ReceiptLine>Engelenvleugels 3,5 x 12 mm -             </ReceiptLine>
+      <ReceiptLine>2 stuks a                 1,99       3,98 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,40-</ReceiptLine>
+      <ReceiptLine>25806                                     </ReceiptLine>
+      <ReceiptLine>hobbylak mat 45 ml - grasgroen       3,49 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,35-</ReceiptLine>
+      <ReceiptLine>25801                                     </ReceiptLine>
+      <ReceiptLine>hobbylak mat 45 ml - mango           3,49 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,35-</ReceiptLine>
+      <ReceiptLine>Kwantum aanb. Hobbylak  5=4          3,49-</ReceiptLine>
+      <ReceiptLine>76327                                     </ReceiptLine>
+      <ReceiptLine>Hobbylak mat 45 ml - zwart           3,49 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,35-</ReceiptLine>
+      <ReceiptLine>76299                                     </ReceiptLine>
+      <ReceiptLine>Hobbylak mat 45 ml - wit                  </ReceiptLine>
+      <ReceiptLine>2 stuks a                 3,49       6,98 </ReceiptLine>
+      <ReceiptLine>Opruiming                            0,69-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>4 Zegels                                  </ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 9 artikelen                  18,94 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>PIN                                 18,94 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>------------------------------------------</ReceiptLine>
+      <ReceiptLine> Kopie Kaarthouder</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Terminal: CT083104  Merchant: 21915910  </ReceiptLine>
+      <ReceiptLine>Periode: 2029       Transactie: 00051445</ReceiptLine>
+      <ReceiptLine>Token: 1009202901110713084          </ReceiptLine>
+      <ReceiptLine>Contactloze betaling</ReceiptLine>
+      <ReceiptLine>MAESTRO (A0000000043060)</ReceiptLine>
+      <ReceiptLine>Kaart: 679107xxxxxxxxx9432</ReceiptLine>
+      <ReceiptLine>Kaartnr: 00     </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>BETALING</ReceiptLine>
+      <ReceiptLine>29/01/2022 15:32    Auth. code:   B55209</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Totaal:    18,94 EUR</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      AKKOORD</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x     15,65  =        3,29 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      U bent geholpen door: Anita  </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>01.0133/01 *******   7988 29-01-2022 15:32</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>    Win 100, 50 of 20 euro shoptegoed!</ReceiptLine>
+      <ReceiptLine>      Ga naar pipoos.com/nieuwsbrief</ReceiptLine>
+      <ReceiptLine>meld je aan en maak automatisch elke maand</ReceiptLine>
+      <ReceiptLine>                   kans</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">82f8d92c-3840-4ff1-9049-584981e042fc</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2630314744284</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">133</centric:RetailStoreExternalReference>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2022-01-29T15:31:46.575+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320185631077</POSItemID>
+          </POSIdentity>
+          <ItemID>28031</ItemID>
+          <MerchandiseHierarchy Level="3">001.3100.3151</MerchandiseHierarchy>
+          <Description>Glazen kraal 8 mm - bruin mat</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>2.99</RegularSalesUnitPrice>
+          <ExtendedAmount>0.45</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">2.54</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anita  " EmployeeID="892" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountItem">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.49</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Aanbieding</centric:Description>
+              <centric:UUID>3</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9020</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.05</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.45</TaxableAmount>
+            <Amount Currency="EUR">0.08</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320185631077</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2022-01-29T15:31:56.954+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320185631121</POSItemID>
+          </POSIdentity>
+          <ItemID>28998</ItemID>
+          <MerchandiseHierarchy Level="3">001.3100.3151</MerchandiseHierarchy>
+          <Description>Glaskralen mat 8 mm - roest</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>2.99</RegularSalesUnitPrice>
+          <ExtendedAmount>2.69</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.3</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anita  " EmployeeID="892" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.3</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">2.69</TaxableAmount>
+            <Amount Currency="EUR">0.47</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320185631121</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2022-01-29T15:32:08.785+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320185627476</POSItemID>
+          </POSIdentity>
+          <ItemID>78004</ItemID>
+          <MerchandiseHierarchy Level="3">001.3100.3153</MerchandiseHierarchy>
+          <Description>Engelenvleugels 3,5 x 12 mm -</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.99</RegularSalesUnitPrice>
+          <ExtendedAmount>3.58</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.4</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anita  " EmployeeID="892" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.4</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.58</TaxableAmount>
+            <Amount Currency="EUR">0.62</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320185627476</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2022-01-29T15:32:14.992+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320182011346</POSItemID>
+          </POSIdentity>
+          <ItemID>25806</ItemID>
+          <MerchandiseHierarchy Level="3">001.2000.2001</MerchandiseHierarchy>
+          <Description>hobbylak mat 45 ml - grasgroen</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.49</RegularSalesUnitPrice>
+          <ExtendedAmount>3.14</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.35</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anita  " EmployeeID="892" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.35</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.14</TaxableAmount>
+            <Amount Currency="EUR">0.54</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320182011346</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <BeginDateTime>2022-01-29T15:32:17.488+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320182011292</POSItemID>
+          </POSIdentity>
+          <ItemID>25801</ItemID>
+          <MerchandiseHierarchy Level="3">001.2000.2001</MerchandiseHierarchy>
+          <Description>hobbylak mat 45 ml - mango</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.49</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">3.49</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anita  " EmployeeID="892" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.35</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.49</Amount>
+            <PromotionID>201909006</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201909006</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Kwantum aanb. Hobbylak  5=4</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.35</TaxableAmount>
+            <Amount Currency="EUR">0.06</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320182011292</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>6</SequenceNumber>
+        <BeginDateTime>2022-01-29T15:32:22.834+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320182011285</POSItemID>
+          </POSIdentity>
+          <ItemID>76327</ItemID>
+          <MerchandiseHierarchy Level="3">001.2000.2001</MerchandiseHierarchy>
+          <Description>Hobbylak mat 45 ml - zwart</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.49</RegularSalesUnitPrice>
+          <ExtendedAmount>3.14</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.35</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anita  " EmployeeID="892" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.35</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.14</TaxableAmount>
+            <Amount Currency="EUR">0.54</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320182011285</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>7</SequenceNumber>
+        <BeginDateTime>2022-01-29T15:32:27.287+01:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320182011018</POSItemID>
+          </POSIdentity>
+          <ItemID>76299</ItemID>
+          <MerchandiseHierarchy Level="3">001.2000.2001</MerchandiseHierarchy>
+          <Description>Hobbylak mat 45 ml - wit</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.49</RegularSalesUnitPrice>
+          <ExtendedAmount>6.29</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.69</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Anita  " EmployeeID="892" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.69</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">6.29</TaxableAmount>
+            <Amount Currency="EUR">1.1</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320182011018</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>8</SequenceNumber>
+        <Discount>
+          <Amount>0.35</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>9</SequenceNumber>
+        <BeginDateTime>2022-01-29T15:32:36.553+01:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8130" TypeCode="Sale" TenderType="InternationalMaestro" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>20</TenderID>
+          <Amount Currency="EUR">18.94</Amount>
+          <centric:Description>PIN</centric:Description>
+          <CreditDebit TypeCode="centric:Maestro" CardType="Debit">
+            <PrimaryAccountNumber>Unknown</PrimaryAccountNumber>
+          </CreditDebit>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>10</SequenceNumber>
+        <LoyaltyReward>
+          <PromotionID>100000000</PromotionID>
+          <LoyaltyID Name="Points">1</LoyaltyID>
+          <PointsAwarded Type="Credited">4</PointsAwarded>
+          <centric:PromotionDescription xmlns:centric="http://www.centric.eu/POSLog">Zegels</centric:PromotionDescription>
+        </LoyaltyReward>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

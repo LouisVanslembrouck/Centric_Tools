@@ -32,7 +32,7 @@ namespace LogCollector
         {
             InitializeComponent();
 
-            Log("Application started.")
+            Log("Application started.");
 
         }
 

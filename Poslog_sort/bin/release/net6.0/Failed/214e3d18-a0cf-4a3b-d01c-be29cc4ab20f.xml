@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>01.0117</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>1335</SequenceNumber>
+    <BeginDateTime>2022-05-31T09:51:34.569+02:00</BeginDateTime>
+    <EndDateTime>2022-05-31T09:52:07.836+02:00</EndDateTime>
+    <OperatorID OperatorName="Fiona ">1804</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>             Pipoos Rotterdam</ReceiptLine>
+      <ReceiptLine>            Binnenwegplein 6c</ReceiptLine>
+      <ReceiptLine>             3012KA Rotterdam</ReceiptLine>
+      <ReceiptLine>            Tel: +31104130308</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>------------------------------------------</ReceiptLine>
+      <ReceiptLine>             BON GEANNULEERD</ReceiptLine>
+      <ReceiptLine>------------------------------------------</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>32961                                     </ReceiptLine>
+      <ReceiptLine>Hobbyschaar soft grip - 14 cm        3,99 </ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 1 artikel                     3,99 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x      3,30  =        0,69 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>       U bent geholpen door: Fiona </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>01.0117/01 *******   1335 31-05-2022 09:52</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>    Win 100, 50 of 20 euro shoptegoed!</ReceiptLine>
+      <ReceiptLine>      Ga naar pipoos.com/nieuwsbrief</ReceiptLine>
+      <ReceiptLine>meld je aan en maak automatisch elke maand</ReceiptLine>
+      <ReceiptLine>                   kans</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">214e3d18-a0cf-4a3b-d01c-be29cc4ab20f</centric:UUID>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">117</centric:RetailStoreExternalReference>
+    <RetailTransaction TransactionStatus="Canceled" Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2022-05-31T09:51:34.557+02:00</BeginDateTime>
+        <Sale ItemType="Stock" centric:RestrictionValidationFlag="true" xmlns:centric="http://www.centric.eu/POSLog">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8713995554145</POSItemID>
+          </POSIdentity>
+          <ItemID>32961</ItemID>
+          <MerchandiseHierarchy Level="3">001.0520.5203</MerchandiseHierarchy>
+          <Description>Hobbyschaar soft grip - 14 cm</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.99</RegularSalesUnitPrice>
+          <ExtendedAmount>3.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Fiona " EmployeeID="1804" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.99</TaxableAmount>
+            <Amount Currency="EUR">0.69</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity>8713995554145</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <RestrictionValidation CustomerQuestionID="centric:CustomerAge">
+        <QuestionAnswer>16+</QuestionAnswer>
+      </RestrictionValidation>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

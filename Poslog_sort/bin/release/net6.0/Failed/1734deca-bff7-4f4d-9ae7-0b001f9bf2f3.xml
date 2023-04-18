@@ -1,0 +1,1040 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>01.0133</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>837</SequenceNumber>
+    <BeginDateTime>2021-05-15T14:36:12.411+02:00</BeginDateTime>
+    <EndDateTime>2021-05-15T14:39:53.506+02:00</EndDateTime>
+    <OperatorID OperatorName="Carla ">1630</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>            Pipoos Hazerswoude</ReceiptLine>
+      <ReceiptLine>               Rijndijk 2e</ReceiptLine>
+      <ReceiptLine>       2394AH Hazerswoude-Rijndijk</ReceiptLine>
+      <ReceiptLine>            Tel: +31713415430</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>33233                                     </ReceiptLine>
+      <ReceiptLine>DMC Spindels Pakje 10 garenhou            </ReceiptLine>
+      <ReceiptLine>8 stuks a                 3,25      26,00 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                       13,00-</ReceiptLine>
+      <ReceiptLine>Sale                                12,99-</ReceiptLine>
+      <ReceiptLine>980003                                    </ReceiptLine>
+      <ReceiptLine>Pipoos papieren tas                  0,25 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,13-</ReceiptLine>
+      <ReceiptLine>69252                                     </ReceiptLine>
+      <ReceiptLine>Fiskars borduurschaar- 10 cm        16,95 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        8,48-</ReceiptLine>
+      <ReceiptLine>72670                                     </ReceiptLine>
+      <ReceiptLine>Aleene's tacky glue 118 ml                </ReceiptLine>
+      <ReceiptLine>2 stuks a                 3,99       7,98 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        3,99-</ReceiptLine>
+      <ReceiptLine>72669                                     </ReceiptLine>
+      <ReceiptLine>Aleene's mini tacky glue                  </ReceiptLine>
+      <ReceiptLine>2 stuks a                 1,75       3,50 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        1,75-</ReceiptLine>
+      <ReceiptLine>Sale                                 1,76-</ReceiptLine>
+      <ReceiptLine>55819                                     </ReceiptLine>
+      <ReceiptLine>Magneet rond 10 stuks- 20 mm              </ReceiptLine>
+      <ReceiptLine>2 stuks a                 3,99       7,98 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        3,99-</ReceiptLine>
+      <ReceiptLine>92859                                     </ReceiptLine>
+      <ReceiptLine>Extra sticky tape- 9 mm              3,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        1,88-</ReceiptLine>
+      <ReceiptLine>83004                                     </ReceiptLine>
+      <ReceiptLine>Olfa reservemesje voor roteerm       7,99 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        4,00-</ReceiptLine>
+      <ReceiptLine>40124                                     </ReceiptLine>
+      <ReceiptLine>E6000 Lijm Tube 29.5 ml              5,99 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        3,00-</ReceiptLine>
+      <ReceiptLine>83050                                     </ReceiptLine>
+      <ReceiptLine>DMC Mouliné Special- Nr. 121         1,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,88-</ReceiptLine>
+      <ReceiptLine>83033                                     </ReceiptLine>
+      <ReceiptLine>DMC Mouliné Special- Nr. 94          1,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,88-</ReceiptLine>
+      <ReceiptLine>83044                                     </ReceiptLine>
+      <ReceiptLine>DMC 117a moul.spec.1/2 vul.nr.       1,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,88-</ReceiptLine>
+      <ReceiptLine>83031                                     </ReceiptLine>
+      <ReceiptLine>DMC 117a moul.spec.1/2 vul.nr.       1,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,88-</ReceiptLine>
+      <ReceiptLine>83054                                     </ReceiptLine>
+      <ReceiptLine>DMC Mouliné Special- Nr. 125         1,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,88-</ReceiptLine>
+      <ReceiptLine>83019                                     </ReceiptLine>
+      <ReceiptLine>DMC Mouliné Special- Nr. 48          1,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,88-</ReceiptLine>
+      <ReceiptLine>Kwantum aanb.  DMC 10=9              1,75-</ReceiptLine>
+      <ReceiptLine>83021                                     </ReceiptLine>
+      <ReceiptLine>DMC Mouliné Special- Nr. 52          1,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,88-</ReceiptLine>
+      <ReceiptLine>83022                                     </ReceiptLine>
+      <ReceiptLine>DMC Mouliné Special- Nr. 53          1,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,88-</ReceiptLine>
+      <ReceiptLine>83020                                     </ReceiptLine>
+      <ReceiptLine>DMC Mouliné Special- Nr. 51          1,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,88-</ReceiptLine>
+      <ReceiptLine>83041                                     </ReceiptLine>
+      <ReceiptLine>DMC Mouliné Special- Nr. 106         1,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        0,88-</ReceiptLine>
+      <ReceiptLine>83035                                     </ReceiptLine>
+      <ReceiptLine>DMC Mouliné Special- Nr. 99               </ReceiptLine>
+      <ReceiptLine>2 stuks a                 1,75       3,50 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        1,75-</ReceiptLine>
+      <ReceiptLine>83040                                     </ReceiptLine>
+      <ReceiptLine>DMC Mouliné Special- Nr. 105              </ReceiptLine>
+      <ReceiptLine>2 stuks a                 1,75       3,50 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                        1,75-</ReceiptLine>
+      <ReceiptLine>33232                                     </ReceiptLine>
+      <ReceiptLine>DMC Doorschijnende insteekmapp            </ReceiptLine>
+      <ReceiptLine>33 stuks a                2,75      90,75 </ReceiptLine>
+      <ReceiptLine>50% Opruiming                       45,30-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>35 Zegels                                 </ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 66 artikelen                 81,32 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>PIN                                 81,32 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>------------------------------------------</ReceiptLine>
+      <ReceiptLine> Kopie Kaarthouder</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Terminal: CT083104  Merchant: 21915910  </ReceiptLine>
+      <ReceiptLine>Periode: 1135       Transactie: 00043370</ReceiptLine>
+      <ReceiptLine>Contactloze betaling</ReceiptLine>
+      <ReceiptLine>Maestro (A0000000043060)</ReceiptLine>
+      <ReceiptLine>Kaart: xxxxxxxxxxxxxxx4026</ReceiptLine>
+      <ReceiptLine>Kaartnr: 07     </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>BETALING</ReceiptLine>
+      <ReceiptLine>15/05/2021 14:39    Auth. code:   027B09</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Totaal:    81,32 EUR</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      AKKOORD</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x     67,21  =       14,11 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>       U bent geholpen door: Carla </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>01.0133/01 *******   0837 15-05-2021 14:39</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">1734deca-bff7-4f4d-9ae7-0b001f9bf2f3</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2635303139713</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">133</centric:RetailStoreExternalReference>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:36:12.398+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540817221</POSItemID>
+          </POSIdentity>
+          <ItemID>33233</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Spindels Pakje 10 garenhou</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.25</RegularSalesUnitPrice>
+          <ExtendedAmount>0.01</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">25.99</ExtendedDiscountAmount>
+          <Quantity>8</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">13</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">12.99</Amount>
+            <PromotionID>201805002</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805002</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Sale </centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.01</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540817221</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:36:21.497+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>980003</POSItemID>
+          </POSIdentity>
+          <ItemID>980003</ItemID>
+          <MerchandiseHierarchy Level="3">012.9000.9004</MerchandiseHierarchy>
+          <Description>Pipoos papieren tas</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>0.25</RegularSalesUnitPrice>
+          <ExtendedAmount>0.12</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.13</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.13</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.12</TaxableAmount>
+            <Amount Currency="EUR">0.02</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:36:38.769+02:00</BeginDateTime>
+        <Sale ItemType="Stock" centric:RestrictionValidationFlag="true" xmlns:centric="http://www.centric.eu/POSLog">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>6411501980700</POSItemID>
+          </POSIdentity>
+          <ItemID>69252</ItemID>
+          <MerchandiseHierarchy Level="3">001.7000.7007</MerchandiseHierarchy>
+          <Description>Fiskars borduurschaar- 10 cm</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>16.95</RegularSalesUnitPrice>
+          <ExtendedAmount>8.47</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">8.48</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">8.48</Amount>
+            <centric:ReasonInfo>
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">8.47</TaxableAmount>
+            <Amount Currency="EUR">1.47</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity>6411501980700</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:36:41.063+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>17754156037</POSItemID>
+          </POSIdentity>
+          <ItemID>72670</ItemID>
+          <MerchandiseHierarchy Level="3">001.7000.7001</MerchandiseHierarchy>
+          <Description>Aleene's tacky glue 118 ml</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.99</RegularSalesUnitPrice>
+          <ExtendedAmount>3.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">3.99</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.99</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.99</TaxableAmount>
+            <Amount Currency="EUR">0.69</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">017754156037</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:36:47.247+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>17754243553</POSItemID>
+          </POSIdentity>
+          <ItemID>72669</ItemID>
+          <MerchandiseHierarchy Level="3">001.7000.7001</MerchandiseHierarchy>
+          <Description>Aleene's mini tacky glue</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">1.75</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.75</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.76</Amount>
+            <PromotionID>201805002</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805002</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Sale </centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.01</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">017754243553</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>6</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:36:55.816+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320180315156</POSItemID>
+          </POSIdentity>
+          <ItemID>55819</ItemID>
+          <MerchandiseHierarchy Level="3">001.6000.6009</MerchandiseHierarchy>
+          <Description>Magneet rond 10 stuks- 20 mm</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.99</RegularSalesUnitPrice>
+          <ExtendedAmount>3.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">3.99</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.99</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.99</TaxableAmount>
+            <Amount Currency="EUR">0.69</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320180315156</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>7</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:01.545+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716133007183</POSItemID>
+          </POSIdentity>
+          <ItemID>92859</ItemID>
+          <MerchandiseHierarchy Level="3">001.7000.7001</MerchandiseHierarchy>
+          <Description>Extra sticky tape- 9 mm</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.75</RegularSalesUnitPrice>
+          <ExtendedAmount>1.87</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">1.88</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.87</TaxableAmount>
+            <Amount Currency="EUR">0.32</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716133007183</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>8</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:05.410+02:00</BeginDateTime>
+        <Sale ItemType="Stock" centric:RestrictionValidationFlag="true" xmlns:centric="http://www.centric.eu/POSLog">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>91511500424</POSItemID>
+          </POSIdentity>
+          <ItemID>83004</ItemID>
+          <MerchandiseHierarchy Level="3">001.4300.4375</MerchandiseHierarchy>
+          <Description>Olfa reservemesje voor roteerm</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.99</RegularSalesUnitPrice>
+          <ExtendedAmount>3.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">4</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">4</Amount>
+            <centric:ReasonInfo>
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.99</TaxableAmount>
+            <Amount Currency="EUR">0.69</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity>091511500424</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>9</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:08.156+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>76818310198</POSItemID>
+          </POSIdentity>
+          <ItemID>40124</ItemID>
+          <MerchandiseHierarchy Level="3">001.7000.7001</MerchandiseHierarchy>
+          <Description>E6000 Lijm Tube 29.5 ml</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>5.99</RegularSalesUnitPrice>
+          <ExtendedAmount>2.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">3</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">2.99</TaxableAmount>
+            <Amount Currency="EUR">0.52</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">076818310198</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>10</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:16.513+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050666</POSItemID>
+          </POSIdentity>
+          <ItemID>83050</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Mouliné Special- Nr. 121</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0.87</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.88</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.87</TaxableAmount>
+            <Amount Currency="EUR">0.15</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050666</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>11</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:19.357+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050505</POSItemID>
+          </POSIdentity>
+          <ItemID>83033</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Mouliné Special- Nr. 94</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0.87</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.88</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.87</TaxableAmount>
+            <Amount Currency="EUR">0.15</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050505</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>12</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:21.924+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050611</POSItemID>
+          </POSIdentity>
+          <ItemID>83044</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC 117a moul.spec.1/2 vul.nr.</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0.87</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.88</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.87</TaxableAmount>
+            <Amount Currency="EUR">0.15</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050611</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>13</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:24.293+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050482</POSItemID>
+          </POSIdentity>
+          <ItemID>83031</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC 117a moul.spec.1/2 vul.nr.</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0.87</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.88</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.87</TaxableAmount>
+            <Amount Currency="EUR">0.15</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050482</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>14</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:27.783+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050703</POSItemID>
+          </POSIdentity>
+          <ItemID>83054</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Mouliné Special- Nr. 125</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0.87</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.88</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.87</TaxableAmount>
+            <Amount Currency="EUR">0.15</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050703</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>15</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:30.974+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050369</POSItemID>
+          </POSIdentity>
+          <ItemID>83019</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Mouliné Special- Nr. 48</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">1.75</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.75</Amount>
+            <PromotionID>201909010</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201909010</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Kwantum aanb.  DMC 10=9</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.88</TaxableAmount>
+            <Amount Currency="EUR">0.15</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050369</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>16</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:37.714+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050383</POSItemID>
+          </POSIdentity>
+          <ItemID>83021</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Mouliné Special- Nr. 52</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0.87</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.88</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.87</TaxableAmount>
+            <Amount Currency="EUR">0.15</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050383</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>17</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:43.368+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050390</POSItemID>
+          </POSIdentity>
+          <ItemID>83022</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Mouliné Special- Nr. 53</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0.87</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.88</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.87</TaxableAmount>
+            <Amount Currency="EUR">0.15</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050390</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>18</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:46.269+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050376</POSItemID>
+          </POSIdentity>
+          <ItemID>83020</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Mouliné Special- Nr. 51</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0.87</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.88</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.87</TaxableAmount>
+            <Amount Currency="EUR">0.15</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050376</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>19</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:50.198+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050581</POSItemID>
+          </POSIdentity>
+          <ItemID>83041</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Mouliné Special- Nr. 106</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>0.87</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.88</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.88</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.87</TaxableAmount>
+            <Amount Currency="EUR">0.15</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050581</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>20</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:55.233+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050529</POSItemID>
+          </POSIdentity>
+          <ItemID>83035</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Mouliné Special- Nr. 99</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>1.75</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">1.75</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.75</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.75</TaxableAmount>
+            <Amount Currency="EUR">0.3</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050529</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>21</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:37:58.202+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>77540050574</POSItemID>
+          </POSIdentity>
+          <ItemID>83040</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Mouliné Special- Nr. 105</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.75</RegularSalesUnitPrice>
+          <ExtendedAmount>1.75</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">1.75</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.75</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.75</TaxableAmount>
+            <Amount Currency="EUR">0.3</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">077540050574</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>22</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:38:35.467+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>33232</POSItemID>
+          </POSIdentity>
+          <ItemID>33232</ItemID>
+          <MerchandiseHierarchy Level="3">001.3000.3003</MerchandiseHierarchy>
+          <Description>DMC Doorschijnende insteekmapp</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>2.75</RegularSalesUnitPrice>
+          <ExtendedAmount>45.45</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">45.3</ExtendedDiscountAmount>
+          <Quantity>33</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Carla " EmployeeID="1630" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">45.3</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">45.45</TaxableAmount>
+            <Amount Currency="EUR">7.91</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">33232</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>23</SequenceNumber>
+        <Discount>
+          <Amount>0.89</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>24</SequenceNumber>
+        <BeginDateTime>2021-05-15T14:39:28.294+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8130" TypeCode="Sale" TenderType="InternationalMaestro" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>20</TenderID>
+          <Amount Currency="EUR">81.32</Amount>
+          <centric:Description>PIN</centric:Description>
+          <CreditDebit TypeCode="centric:Maestro" CardType="Debit">
+            <PrimaryAccountNumber>Unknown</PrimaryAccountNumber>
+          </CreditDebit>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>25</SequenceNumber>
+        <LoyaltyReward>
+          <PromotionID>100000000</PromotionID>
+          <LoyaltyID Name="Points">1</LoyaltyID>
+          <PointsAwarded Type="Credited">35</PointsAwarded>
+          <centric:PromotionDescription xmlns:centric="http://www.centric.eu/POSLog">Zegels</centric:PromotionDescription>
+          <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+        </LoyaltyReward>
+      </LineItem>
+      <RestrictionValidation CustomerQuestionID="centric:CustomerAge">
+        <QuestionAnswer>16+</QuestionAnswer>
+      </RestrictionValidation>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

@@ -1,0 +1,709 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>02.0202</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>4306</SequenceNumber>
+    <BeginDateTime>2022-07-13T17:42:44.872+02:00</BeginDateTime>
+    <EndDateTime>2022-07-13T17:43:45.019+02:00</EndDateTime>
+    <OperatorID OperatorName="Alex ">2020043</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>           Pipoos Sint Niklaas</ReceiptLine>
+      <ReceiptLine>         Waasland Shopping Center</ReceiptLine>
+      <ReceiptLine>          Kapelstraat 100 bus 74</ReceiptLine>
+      <ReceiptLine>            9100 Sint Niklaas</ReceiptLine>
+      <ReceiptLine>             Tel: +3237763919</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>74388                                     </ReceiptLine>
+      <ReceiptLine>Clear Stamps Hetty's- Fairy ho       5,95 </ReceiptLine>
+      <ReceiptLine>Opruiming                            1,72-</ReceiptLine>
+      <ReceiptLine>Post Sale                            3,57-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           0,66-</ReceiptLine>
+      <ReceiptLine>73739                                     </ReceiptLine>
+      <ReceiptLine>Creatable Kim's Buddies girl s       7,95 </ReceiptLine>
+      <ReceiptLine>Opruiming                            2,29-</ReceiptLine>
+      <ReceiptLine>Post Sale                            4,77-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           0,89-</ReceiptLine>
+      <ReceiptLine>73738                                     </ReceiptLine>
+      <ReceiptLine>Creatable Kim's Buddies boy se       7,95 </ReceiptLine>
+      <ReceiptLine>Opruiming                            2,29-</ReceiptLine>
+      <ReceiptLine>Post Sale                            4,77-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           0,89-</ReceiptLine>
+      <ReceiptLine>74116                                     </ReceiptLine>
+      <ReceiptLine>Creatable Kim's Buddies pirate       7,95 </ReceiptLine>
+      <ReceiptLine>Opruiming                            2,29-</ReceiptLine>
+      <ReceiptLine>Post Sale                            4,77-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           0,89-</ReceiptLine>
+      <ReceiptLine>74117                                     </ReceiptLine>
+      <ReceiptLine>Creatable Kim's Buddies knight       7,95 </ReceiptLine>
+      <ReceiptLine>Opruiming                            2,29-</ReceiptLine>
+      <ReceiptLine>Post Sale                            4,77-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           0,89-</ReceiptLine>
+      <ReceiptLine>74179                                     </ReceiptLine>
+      <ReceiptLine>Clear Stamps Hetty's Sunny day       7,95 </ReceiptLine>
+      <ReceiptLine>Opruiming                            2,29-</ReceiptLine>
+      <ReceiptLine>Post Sale                            4,77-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           0,89-</ReceiptLine>
+      <ReceiptLine>73906                                     </ReceiptLine>
+      <ReceiptLine>Clear Stamps Tiny's amaryllis       10,95 </ReceiptLine>
+      <ReceiptLine>Opruiming                            3,16-</ReceiptLine>
+      <ReceiptLine>Post Sale                            6,57-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           1,22-</ReceiptLine>
+      <ReceiptLine>73882                                     </ReceiptLine>
+      <ReceiptLine>Stamps Tiny's squirrel (layeri      10,95 </ReceiptLine>
+      <ReceiptLine>Opruiming                            3,16-</ReceiptLine>
+      <ReceiptLine>Post Sale                            6,57-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           1,23-</ReceiptLine>
+      <ReceiptLine>74206                                     </ReceiptLine>
+      <ReceiptLine>Clear Stamps Tiny's layered Su      10,95 </ReceiptLine>
+      <ReceiptLine>Opruiming                            3,16-</ReceiptLine>
+      <ReceiptLine>Post Sale                            6,57-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           1,22-</ReceiptLine>
+      <ReceiptLine>73884                                     </ReceiptLine>
+      <ReceiptLine>Stamps Tiny's chrysant (layeri      10,95 </ReceiptLine>
+      <ReceiptLine>Opruiming                            3,15-</ReceiptLine>
+      <ReceiptLine>Post Sale                            6,57-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           1,22-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>5 Zegels                                  </ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 10 artikelen                  0,00 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Contant                              0,00 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x      0,00  =        0,00 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>       U bent geholpen door: Alex </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>02.0202/01 *******   4306 13-07-2022 17:43</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>    Win 100, 50 of 20 euro shoptegoed!</ReceiptLine>
+      <ReceiptLine>      Ga naar pipoos.com/nieuwsbrief</ReceiptLine>
+      <ReceiptLine>meld je aan en maak automatisch elke maand</ReceiptLine>
+      <ReceiptLine>                   kans</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>         Verzegelingsnr.:84039137</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">114c9203-ec03-4f13-93c9-e3701eab4d8a</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2635145429867</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">202</centric:RetailStoreExternalReference>
+    <centric:NumCheckSum xmlns:centric="http://www.centric.eu/POSLog">84039137</centric:NumCheckSum>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:42:44.860+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716697052629</POSItemID>
+          </POSIdentity>
+          <ItemID>74388</ItemID>
+          <MerchandiseHierarchy Level="3">001.0999.9999</MerchandiseHierarchy>
+          <Description>Clear Stamps Hetty's- Fairy ho</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>5.95</RegularSalesUnitPrice>
+          <ExtendedAmount>0.00</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">5.95</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Alex " EmployeeID="2020043" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.72</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.57</Amount>
+            <PromotionID>201805001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Post Sale</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.66</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716697052629</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:42:46.848+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716697047670</POSItemID>
+          </POSIdentity>
+          <ItemID>73739</ItemID>
+          <MerchandiseHierarchy Level="3">001.0999.9999</MerchandiseHierarchy>
+          <Description>Creatable Kim's Buddies girl s</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.95</RegularSalesUnitPrice>
+          <ExtendedAmount>0.00</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">7.95</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Alex " EmployeeID="2020043" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.29</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">4.77</Amount>
+            <PromotionID>201805001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Post Sale</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.89</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716697047670</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:42:48.780+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716697047663</POSItemID>
+          </POSIdentity>
+          <ItemID>73738</ItemID>
+          <MerchandiseHierarchy Level="3">001.0999.9999</MerchandiseHierarchy>
+          <Description>Creatable Kim's Buddies boy se</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.95</RegularSalesUnitPrice>
+          <ExtendedAmount>0.00</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">7.95</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Alex " EmployeeID="2020043" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.29</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">4.77</Amount>
+            <PromotionID>201805001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Post Sale</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.89</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716697047663</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:42:50.556+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716697050113</POSItemID>
+          </POSIdentity>
+          <ItemID>74116</ItemID>
+          <MerchandiseHierarchy Level="3">001.0999.9999</MerchandiseHierarchy>
+          <Description>Creatable Kim's Buddies pirate</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.95</RegularSalesUnitPrice>
+          <ExtendedAmount>0.00</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">7.95</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Alex " EmployeeID="2020043" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.29</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">4.77</Amount>
+            <PromotionID>201805001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Post Sale</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.89</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716697050113</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:42:52.197+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716697050120</POSItemID>
+          </POSIdentity>
+          <ItemID>74117</ItemID>
+          <MerchandiseHierarchy Level="3">001.0999.9999</MerchandiseHierarchy>
+          <Description>Creatable Kim's Buddies knight</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.95</RegularSalesUnitPrice>
+          <ExtendedAmount>0.00</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">7.95</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Alex " EmployeeID="2020043" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.29</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">4.77</Amount>
+            <PromotionID>201805001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Post Sale</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.89</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716697050120</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>6</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:42:54.345+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716697050298</POSItemID>
+          </POSIdentity>
+          <ItemID>74179</ItemID>
+          <MerchandiseHierarchy Level="3">001.0999.9999</MerchandiseHierarchy>
+          <Description>Clear Stamps Hetty's Sunny day</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.95</RegularSalesUnitPrice>
+          <ExtendedAmount>0.00</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">7.95</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Alex " EmployeeID="2020043" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.29</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">4.77</Amount>
+            <PromotionID>201805001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Post Sale</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.89</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716697050298</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>7</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:42:56.353+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716697048325</POSItemID>
+          </POSIdentity>
+          <ItemID>73906</ItemID>
+          <MerchandiseHierarchy Level="3">001.0999.9999</MerchandiseHierarchy>
+          <Description>Clear Stamps Tiny's amaryllis</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>10.95</RegularSalesUnitPrice>
+          <ExtendedAmount>0.00</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">10.95</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Alex " EmployeeID="2020043" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.16</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">6.57</Amount>
+            <PromotionID>201805001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Post Sale</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.22</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716697048325</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>8</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:42:58.254+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716697047878</POSItemID>
+          </POSIdentity>
+          <ItemID>73882</ItemID>
+          <MerchandiseHierarchy Level="3">001.0999.9999</MerchandiseHierarchy>
+          <Description>Stamps Tiny's squirrel (layeri</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>10.95</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">10.95</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Alex " EmployeeID="2020043" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.16</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">6.57</Amount>
+            <PromotionID>201805001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Post Sale</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.23</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.01</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716697047878</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>9</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:43:00.481+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716697050939</POSItemID>
+          </POSIdentity>
+          <ItemID>74206</ItemID>
+          <MerchandiseHierarchy Level="3">001.0999.9999</MerchandiseHierarchy>
+          <Description>Clear Stamps Tiny's layered Su</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>10.95</RegularSalesUnitPrice>
+          <ExtendedAmount>0.00</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">10.95</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Alex " EmployeeID="2020043" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.16</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">6.57</Amount>
+            <PromotionID>201805001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Post Sale</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.22</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716697050939</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>10</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:43:02.683+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716697047892</POSItemID>
+          </POSIdentity>
+          <ItemID>73884</ItemID>
+          <MerchandiseHierarchy Level="3">001.0999.9999</MerchandiseHierarchy>
+          <Description>Stamps Tiny's chrysant (layeri</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>10.95</RegularSalesUnitPrice>
+          <ExtendedAmount>0.01</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">10.94</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Alex " EmployeeID="2020043" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">3.15</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">6.57</Amount>
+            <PromotionID>201805001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201805001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Post Sale</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>3</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.22</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.01</TaxableAmount>
+            <Amount Currency="EUR">0</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716697047892</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>11</SequenceNumber>
+        <Discount>
+          <Amount>0.01</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>12</SequenceNumber>
+        <BeginDateTime>2022-07-13T17:43:40.055+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8000" TypeCode="Sale" TenderType="Cash" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>01</TenderID>
+          <Amount Currency="EUR">0</Amount>
+          <centric:Description>Contant</centric:Description>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>13</SequenceNumber>
+        <centric:ActivationVoucher Type="Store" xmlns:centric="http://www.centric.eu/POSLog">
+          <centric:Barcode>00000001</centric:Barcode>
+        </centric:ActivationVoucher>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>14</SequenceNumber>
+        <LoyaltyReward>
+          <PromotionID>100000000</PromotionID>
+          <LoyaltyID Name="Points">1</LoyaltyID>
+          <PointsAwarded Type="Credited">5</PointsAwarded>
+          <centric:PromotionDescription xmlns:centric="http://www.centric.eu/POSLog">Zegels</centric:PromotionDescription>
+        </LoyaltyReward>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

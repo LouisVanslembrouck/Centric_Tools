@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>01.0114</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>7849</SequenceNumber>
+    <BeginDateTime>2021-06-30T11:29:15.046+02:00</BeginDateTime>
+    <EndDateTime>2021-06-30T11:30:02.192+02:00</EndDateTime>
+    <OperatorID OperatorName="Marloes  ">747</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>             Pipoos Dordrecht</ReceiptLine>
+      <ReceiptLine>            Visstraat 100-102</ReceiptLine>
+      <ReceiptLine>             3311KX Dordrecht</ReceiptLine>
+      <ReceiptLine>            Tel: +31786132030</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>73774                                     </ReceiptLine>
+      <ReceiptLine>Pentel dual metallic gel rolle            </ReceiptLine>
+      <ReceiptLine>2 stuks a                 2,69       5,38 </ReceiptLine>
+      <ReceiptLine>10% Aanbieding                       0,54-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           5,00-</ReceiptLine>
+      <ReceiptLine>73773                                     </ReceiptLine>
+      <ReceiptLine>Pentel dual metallic gel rolle            </ReceiptLine>
+      <ReceiptLine>2 stuks a                 2,69       5,38 </ReceiptLine>
+      <ReceiptLine>10% Aanbieding                       0,54-</ReceiptLine>
+      <ReceiptLine>Spaarkaart                           5,00-</ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 4 artikelen                   0,32-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Retour Contant                       0,30-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x      0,26  =        0,06 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>     U bent geholpen door: Marloes  </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>01.0114/01 *******   7849 30-06-2021 11:29</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">e4749531-b395-4a33-88f8-30fda8635469</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2631407274015</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">114</centric:RetailStoreExternalReference>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2021-06-30T11:29:15.039+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>884851024619</POSItemID>
+          </POSIdentity>
+          <ItemID>73774</ItemID>
+          <MerchandiseHierarchy Level="3">001.4300.4379</MerchandiseHierarchy>
+          <Description>Pentel dual metallic gel rolle</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>2.69</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">2.69</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Marloes  " EmployeeID="747" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.54</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Aanbieding</centric:Description>
+              <centric:UUID>3</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">5</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.16</TaxableAmount>
+            <Amount Currency="EUR">0.03</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">884851024619</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2021-06-30T11:29:17.183+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>884851024602</POSItemID>
+          </POSIdentity>
+          <ItemID>73773</ItemID>
+          <MerchandiseHierarchy Level="3">001.4300.4379</MerchandiseHierarchy>
+          <Description>Pentel dual metallic gel rolle</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>2.69</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">2.69</ExtendedDiscountAmount>
+          <Quantity>2</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Marloes  " EmployeeID="747" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.54</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Aanbieding</centric:Description>
+              <centric:UUID>3</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">5</Amount>
+            <PromotionID>100000001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Spaarkaart</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.16</TaxableAmount>
+            <Amount Currency="EUR">0.03</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">884851024602</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <Discount>
+          <Amount>0.32</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2021-06-30T11:29:51.269+02:00</BeginDateTime>
+        <Tender centric:Classification="500.9500.5000" TypeCode="Refund" TenderType="centric:Rounding" xmlns:centric="http://www.centric.eu/POSLog">
+          <Amount Currency="EUR">0.02</Amount>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <BeginDateTime>2021-06-30T11:29:51.269+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8000" TypeCode="Refund" TenderType="Cash" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>01</TenderID>
+          <Amount Currency="EUR">0.3</Amount>
+          <centric:Description>Contant</centric:Description>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>6</SequenceNumber>
+        <centric:ActivationVoucher Type="Store" xmlns:centric="http://www.centric.eu/POSLog">
+          <centric:Barcode>00000001</centric:Barcode>
+        </centric:ActivationVoucher>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

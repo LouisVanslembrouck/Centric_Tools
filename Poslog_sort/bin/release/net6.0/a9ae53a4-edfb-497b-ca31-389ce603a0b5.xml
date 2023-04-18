@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>02.0202</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>4402</SequenceNumber>
+    <BeginDateTime>2022-10-15T11:19:10.022+02:00</BeginDateTime>
+    <EndDateTime>2022-10-15T11:20:20.766+02:00</EndDateTime>
+    <OperatorID OperatorName="Riet">2020025</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>           Pipoos Sint Niklaas</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>90902                                     </ReceiptLine>
+      <ReceiptLine>Papicolor A6 Kaart Dubbel                 </ReceiptLine>
+      <ReceiptLine>100 stuks a               0,59      59,00 </ReceiptLine>
+      <ReceiptLine>Opruiming                           58,10-</ReceiptLine>
+      <ReceiptLine>Kwantum aanb. Papicolor 10=9         5,90-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>10 Zegels                                 </ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 100 artikelen                 5,00-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Retour Contant                       5,00-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x      4,13  =        0,87 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>        U bent geholpen door: Riet</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>02.0202/01 *******   4402 15-10-2022 11:20</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine> Op vertoon van je kassabon kun je binnen</ReceiptLine>
+      <ReceiptLine>                100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>         Verzegelingsnr.:91934514</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">a9ae53a4-edfb-497b-ca31-389ce603a0b5</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2631009010455</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">202</centric:RetailStoreExternalReference>
+    <centric:NumCheckSum xmlns:centric="http://www.centric.eu/POSLog">91934514</centric:NumCheckSum>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2022-10-15T11:19:10.018+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>90902</POSItemID>
+          </POSIdentity>
+          <ItemID>90902</ItemID>
+          <MerchandiseHierarchy Level="3">001.0100.1003</MerchandiseHierarchy>
+          <Description>Papicolor A6 Kaart Dubbel</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>0.59</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.59</ExtendedDiscountAmount>
+          <Quantity>100</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Riet" EmployeeID="2020025" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountTotalValue">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">58.1</Amount>
+            <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+              <centric:Description>Opruiming</centric:Description>
+              <centric:UUID>2</centric:UUID>
+              <centric:Comment></centric:Comment>
+            </centric:ReasonInfo>
+            <centric:Classification Type="Informative" xmlns:centric="http://www.centric.eu/POSLog">900.990.9000</centric:Classification>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">5.9</Amount>
+            <PromotionID>201909009</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>201909009</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Kwantum aanb. Papicolor 10=9</centric:Description>
+            <centric:ExternalTaxRuleID xmlns:centric="http://www.centric.eu/POSLog">0</centric:ExternalTaxRuleID>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">5.00</TaxableAmount>
+            <Amount Currency="EUR">0.87</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <Discount>
+          <Amount>5.0</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2022-10-15T11:20:13.739+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8000" TypeCode="Refund" TenderType="Cash" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>01</TenderID>
+          <Amount Currency="EUR">5</Amount>
+          <centric:Description>Contant</centric:Description>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <LoyaltyReward>
+          <PromotionID>100000000</PromotionID>
+          <LoyaltyID Name="Points">1</LoyaltyID>
+          <PointsAwarded Type="Credited">10</PointsAwarded>
+          <centric:PromotionDescription xmlns:centric="http://www.centric.eu/POSLog">Zegels</centric:PromotionDescription>
+        </LoyaltyReward>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

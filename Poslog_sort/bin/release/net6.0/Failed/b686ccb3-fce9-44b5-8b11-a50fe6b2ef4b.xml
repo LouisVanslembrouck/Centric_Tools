@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>01.0117</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>8439</SequenceNumber>
+    <BeginDateTime>2022-05-11T14:41:05.021+02:00</BeginDateTime>
+    <EndDateTime>2022-05-11T14:43:22.382+02:00</EndDateTime>
+    <OperatorID OperatorName="Monique ">1258</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>             Pipoos Rotterdam</ReceiptLine>
+      <ReceiptLine>            Binnenwegplein 6c</ReceiptLine>
+      <ReceiptLine>             3012KA Rotterdam</ReceiptLine>
+      <ReceiptLine>            Tel: +31104130308</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>04062                                     </ReceiptLine>
+      <ReceiptLine>Piepschuim 2-delig- ei hol 20       47,94 </ReceiptLine>
+      <ReceiptLine>6,00 Lengte artikel                       </ReceiptLine>
+      <ReceiptLine>980002                                    </ReceiptLine>
+      <ReceiptLine>Plastic tas groot                    0,25 </ReceiptLine>
+      <ReceiptLine>06565                                     </ReceiptLine>
+      <ReceiptLine>Piepschuim - bal 2-delig - 15 cm          </ReceiptLine>
+      <ReceiptLine>5 stuks a                 4,49-     22,45-</ReceiptLine>
+      <ReceiptLine>                          0,45       2,25 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>9 Zegels                                  </ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal -3 artikelen                 27,99 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>PIN                                 27,99 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>------------------------------------------</ReceiptLine>
+      <ReceiptLine> Kopie Kaarthouder</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Terminal: CT083091  Merchant: 21915894  </ReceiptLine>
+      <ReceiptLine>Periode: 2131       Transactie: 00153802</ReceiptLine>
+      <ReceiptLine>Token: 1009213100737333080          </ReceiptLine>
+      <ReceiptLine>Contactloze betaling</ReceiptLine>
+      <ReceiptLine>MAESTRO (A0000000043060)</ReceiptLine>
+      <ReceiptLine>Kaart: 673706xxxxxxxxx7120</ReceiptLine>
+      <ReceiptLine>Kaartnr: 00     </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>BETALING</ReceiptLine>
+      <ReceiptLine>11/05/2022 14:43    Auth. code:   8000Q8</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Totaal:    27,99 EUR</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      AKKOORD</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x     23,13  =        4,86 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      U bent geholpen door: Monique </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>01.0117/01 *******   8439 11-05-2022 14:43</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>    Win 100, 50 of 20 euro shoptegoed!</ReceiptLine>
+      <ReceiptLine>      Ga naar pipoos.com/nieuwsbrief</ReceiptLine>
+      <ReceiptLine>meld je aan en maak automatisch elke maand</ReceiptLine>
+      <ReceiptLine>                   kans</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">b686ccb3-fce9-44b5-8b11-a50fe6b2ef4b</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2631123899639</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">117</centric:RetailStoreExternalReference>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2022-05-11T14:40:57.428+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4062</POSItemID>
+          </POSIdentity>
+          <ItemID>04062</ItemID>
+          <MerchandiseHierarchy Level="3">001.0160.1601</MerchandiseHierarchy>
+          <Description>Piepschuim 2-delig- ei hol 20</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.99</RegularSalesUnitPrice>
+          <ExtendedAmount>47.94</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity Units="6" UnitOfMeasureCode="MTR">1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Monique " EmployeeID="1258" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">47.94</TaxableAmount>
+            <Amount Currency="EUR">8.32</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+        </Sale>
+      </LineItem>
+      <LineItem CancelFlag="true">
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2022-05-11T14:40:57.428+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4062</POSItemID>
+          </POSIdentity>
+          <ItemID>04062</ItemID>
+          <MerchandiseHierarchy Level="3">001.0160.1601</MerchandiseHierarchy>
+          <Description>Piepschuim 2-delig- ei hol 20</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.99</RegularSalesUnitPrice>
+          <ExtendedAmount>47.94</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity Units="6" UnitOfMeasureCode="MTR">1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Monique " EmployeeID="1258" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">47.94</TaxableAmount>
+            <Amount Currency="EUR">8.32</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <ItemLink>1</ItemLink>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2022-05-11T14:41:36.826+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4062</POSItemID>
+          </POSIdentity>
+          <ItemID>04062</ItemID>
+          <MerchandiseHierarchy Level="3">001.0160.1601</MerchandiseHierarchy>
+          <Description>Piepschuim 2-delig- ei hol 20</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.99</RegularSalesUnitPrice>
+          <ExtendedAmount>47.94</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity Units="6" UnitOfMeasureCode="MTR">1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Monique " EmployeeID="1258" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">47.94</TaxableAmount>
+            <Amount Currency="EUR">8.33</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2022-05-11T14:42:47.191+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>980002</POSItemID>
+          </POSIdentity>
+          <ItemID>980002</ItemID>
+          <MerchandiseHierarchy Level="3">012.9000.9004</MerchandiseHierarchy>
+          <Description>Plastic tas groot</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>0.25</RegularSalesUnitPrice>
+          <ExtendedAmount>0.25</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Monique " EmployeeID="1258" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.25</TaxableAmount>
+            <Amount Currency="EUR">0.04</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <BeginDateTime>2022-05-11T14:42:53.793+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8130" TypeCode="Sale" TenderType="InternationalMaestro" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>20</TenderID>
+          <Amount Currency="EUR">27.99</Amount>
+          <centric:Description>PIN</centric:Description>
+          <CreditDebit TypeCode="centric:Maestro" CardType="Debit">
+            <PrimaryAccountNumber>Unknown</PrimaryAccountNumber>
+          </CreditDebit>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>6</SequenceNumber>
+        <BeginDateTime>2022-05-09T08:16:18.000+02:00</BeginDateTime>
+        <Return ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716052009343</POSItemID>
+          </POSIdentity>
+          <ItemID>06565</ItemID>
+          <MerchandiseHierarchy Level="3">001.0160.1601</MerchandiseHierarchy>
+          <Description>Piepschuim - bal 2-delig - 15 cm</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.49</RegularSalesUnitPrice>
+          <ExtendedAmount>22.45</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">2.25</ExtendedDiscountAmount>
+          <Quantity>5</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="4" centric:Origin="Webshop" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Webshop Medewerker" EmployeeID="1000000" />
+          </Associate>
+          <RetailPriceModifier MethodCode="centric:DiscountClearance">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.25</Amount>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">20.20</TaxableAmount>
+            <Amount Currency="EUR">3.51</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <TransactionLink>
+            <RetailStoreID>01.0199</RetailStoreID>
+            <WorkstationID>99</WorkstationID>
+            <SequenceNumber>2022016489</SequenceNumber>
+            <BeginDateTime>2022-05-09T08:16:18.000+02:00</BeginDateTime>
+            <EndDateTime>2022-05-09T08:16:18+02:00</EndDateTime>
+            <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">89F6AFE6-CF5F-11EC-9A97-001DD8C3012C</centric:UUID>
+          </TransactionLink>
+          <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+            <centric:Description>Heeft het artikel al of teveel</centric:Description>
+            <centric:UUID>017cf13c-0e8d-4a0f-b389-9976f5b4ae9d</centric:UUID>
+          </centric:ReasonInfo>
+        </Return>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>7</SequenceNumber>
+        <LoyaltyReward>
+          <PromotionID>100000000</PromotionID>
+          <LoyaltyID Name="Points">1</LoyaltyID>
+          <PointsAwarded Type="Credited">9</PointsAwarded>
+          <centric:PromotionDescription xmlns:centric="http://www.centric.eu/POSLog">Zegels</centric:PromotionDescription>
+        </LoyaltyReward>
+      </LineItem>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>

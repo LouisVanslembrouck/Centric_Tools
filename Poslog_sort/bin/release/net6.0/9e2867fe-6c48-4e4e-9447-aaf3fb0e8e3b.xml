@@ -1,0 +1,886 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<POSLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.nrf-arts.org/IXRetail/namespace/">
+  <Transaction>
+    <RetailStoreID>01.0123</RetailStoreID>
+    <WorkstationID>1</WorkstationID>
+    <SequenceNumber>8698</SequenceNumber>
+    <BeginDateTime>2022-05-17T17:52:04.684+02:00</BeginDateTime>
+    <EndDateTime>2022-05-17T17:56:10.553+02:00</EndDateTime>
+    <OperatorID OperatorName="Jessica ">455</OperatorID>
+    <CurrencyCode>EUR</CurrencyCode>
+    <ReceiptImage>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>             Pipoos Amsterdam</ReceiptLine>
+      <ReceiptLine>             Ceintuurbaan 334</ReceiptLine>
+      <ReceiptLine>             1072GN Amsterdam</ReceiptLine>
+      <ReceiptLine>            Tel: +31206374015</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>                 Kassabon</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>65531                                     </ReceiptLine>
+      <ReceiptLine>Posca stift breed 8 mm - rood        7,99-</ReceiptLine>
+      <ReceiptLine>65527                                     </ReceiptLine>
+      <ReceiptLine>Posca stift breed 8 mm               7,99-</ReceiptLine>
+      <ReceiptLine>65545                                     </ReceiptLine>
+      <ReceiptLine>Posca stift breed 8 mm               7,99-</ReceiptLine>
+      <ReceiptLine>65532                                     </ReceiptLine>
+      <ReceiptLine>Posca stift breed 8 mm - blauw       7,99-</ReceiptLine>
+      <ReceiptLine>65542                                     </ReceiptLine>
+      <ReceiptLine>Posca stift breed 8 mm               7,99-</ReceiptLine>
+      <ReceiptLine>85253                                     </ReceiptLine>
+      <ReceiptLine>Panduro knutsellijm 50 ml            1,99 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,20-</ReceiptLine>
+      <ReceiptLine>980003                                    </ReceiptLine>
+      <ReceiptLine>Pipoos papieren tas                  0,25 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,03-</ReceiptLine>
+      <ReceiptLine>61638                                     </ReceiptLine>
+      <ReceiptLine>edding 5200 permanent spray 20       9,99 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,99-</ReceiptLine>
+      <ReceiptLine>edding 5200 permanent spray 2+1      9,99-</ReceiptLine>
+      <ReceiptLine>61663                                     </ReceiptLine>
+      <ReceiptLine>edding 5200 permanent spray 20       9,99 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           1,00-</ReceiptLine>
+      <ReceiptLine>61639                                     </ReceiptLine>
+      <ReceiptLine>edding 5200 permanent spray 20       9,99 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,99-</ReceiptLine>
+      <ReceiptLine>61659                                     </ReceiptLine>
+      <ReceiptLine>edding 5200 permanent spray 20            </ReceiptLine>
+      <ReceiptLine>3 stuks a                 9,99      29,97 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           2,99-</ReceiptLine>
+      <ReceiptLine>edding 5200 permanent spray 2+1      9,99-</ReceiptLine>
+      <ReceiptLine>61245                                     </ReceiptLine>
+      <ReceiptLine>edding 5000 acrylic marker 910       5,79 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,58-</ReceiptLine>
+      <ReceiptLine>61247                                     </ReceiptLine>
+      <ReceiptLine>edding 5000 acrylic marker 916       5,79 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,58-</ReceiptLine>
+      <ReceiptLine>61241                                     </ReceiptLine>
+      <ReceiptLine>edding 5000 acrylic marker 905       5,79 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,58-</ReceiptLine>
+      <ReceiptLine>61236                                     </ReceiptLine>
+      <ReceiptLine>edding 5000 acrylic marker 902       5,79 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,58-</ReceiptLine>
+      <ReceiptLine>61238                                     </ReceiptLine>
+      <ReceiptLine>edding 5000 acrylic marker 903       5,79 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,58-</ReceiptLine>
+      <ReceiptLine>61253                                     </ReceiptLine>
+      <ReceiptLine>edding 5000 acrylic marker 926       5,79 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,58-</ReceiptLine>
+      <ReceiptLine>98307                                     </ReceiptLine>
+      <ReceiptLine>Hobbyschaar - 17 cm                  3,99 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,40-</ReceiptLine>
+      <ReceiptLine>92859                                     </ReceiptLine>
+      <ReceiptLine>Extra sticky dubbelzijdig tape       3,75 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           0,38-</ReceiptLine>
+      <ReceiptLine>26873                                     </ReceiptLine>
+      <ReceiptLine>Dubbelzijdige tape 6 mm/13 m              </ReceiptLine>
+      <ReceiptLine>3 stuks a                 4,39      13,17 </ReceiptLine>
+      <ReceiptLine>Terugkom-actie 10% korting           1,32-</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>17 Zegels                                 </ReceiptLine>
+      <ReceiptLine>                                --------- </ReceiptLine>
+      <ReceiptLine>Totaal 14 artikelen                 46,12 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Contant                             46,10 </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>(BTW 21%      x     38,12  =        8,00 )</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>      U bent geholpen door: Jessica </ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine>Filiaal    Verk.     Nr   Datum      Tijd </ReceiptLine>
+      <ReceiptLine>01.0123/01 *******   8698 17-05-2022 17:55</ReceiptLine>
+      <ReceiptLine />
+      <ReceiptLine />
+      <ReceiptLine>   Ben je niet tevreden met je aankoop?</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine> Met je kassabon kun je binnen 100 dagen</ReceiptLine>
+      <ReceiptLine>    je aankoop ruilen of terugbrengen</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>    Win 100, 50 of 20 euro shoptegoed!</ReceiptLine>
+      <ReceiptLine>      Ga naar pipoos.com/nieuwsbrief</ReceiptLine>
+      <ReceiptLine>meld je aan en maak automatisch elke maand</ReceiptLine>
+      <ReceiptLine>                   kans</ReceiptLine>
+      <ReceiptLine></ReceiptLine>
+      <ReceiptLine>         Bestel eenvoudig online!</ReceiptLine>
+      <ReceiptLine>              www.pipoos.com</ReceiptLine>
+    </ReceiptImage>
+    <centric:UUID xmlns:centric="http://www.centric.eu/POSLog">9e2867fe-6c48-4e4e-9447-aaf3fb0e8e3b</centric:UUID>
+    <centric:ReceiptBarcode xmlns:centric="http://www.centric.eu/POSLog">2634539387479</centric:ReceiptBarcode>
+    <centric:RetailStoreExternalReference xmlns:centric="http://www.centric.eu/POSLog">123</centric:RetailStoreExternalReference>
+    <RetailTransaction Version="2.2">
+      <LineItem>
+        <SequenceNumber>1</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:01.527+02:00</BeginDateTime>
+        <Return ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4902778916476</POSItemID>
+          </POSIdentity>
+          <ItemID>65531</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>Posca stift breed 8 mm - rood</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.99</RegularSalesUnitPrice>
+          <ExtendedAmount>7.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">7.99</TaxableAmount>
+            <Amount Currency="EUR">1.38</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+            <centric:Description>Overige klacht</centric:Description>
+            <centric:UUID>9bf20eea-380d-45df-a4aa-0e91e591ce4f</centric:UUID>
+          </centric:ReasonInfo>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4902778916476</centric:RegisteredPOSIdentity>
+        </Return>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>2</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:06.124+02:00</BeginDateTime>
+        <Return ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4902778916575</POSItemID>
+          </POSIdentity>
+          <ItemID>65527</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>Posca stift breed 8 mm</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.99</RegularSalesUnitPrice>
+          <ExtendedAmount>7.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">7.99</TaxableAmount>
+            <Amount Currency="EUR">1.38</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+            <centric:Description>Overige klacht</centric:Description>
+            <centric:UUID>9bf20eea-380d-45df-a4aa-0e91e591ce4f</centric:UUID>
+          </centric:ReasonInfo>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4902778916575</centric:RegisteredPOSIdentity>
+        </Return>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>3</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:09.668+02:00</BeginDateTime>
+        <Return ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4902778107546</POSItemID>
+          </POSIdentity>
+          <ItemID>65545</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>Posca stift breed 8 mm</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.99</RegularSalesUnitPrice>
+          <ExtendedAmount>7.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">7.99</TaxableAmount>
+            <Amount Currency="EUR">1.38</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+            <centric:Description>Overige klacht</centric:Description>
+            <centric:UUID>9bf20eea-380d-45df-a4aa-0e91e591ce4f</centric:UUID>
+          </centric:ReasonInfo>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4902778107546</centric:RegisteredPOSIdentity>
+        </Return>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>4</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:14.123+02:00</BeginDateTime>
+        <Return ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4902778916469</POSItemID>
+          </POSIdentity>
+          <ItemID>65532</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>Posca stift breed 8 mm - blauw</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.99</RegularSalesUnitPrice>
+          <ExtendedAmount>7.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">7.99</TaxableAmount>
+            <Amount Currency="EUR">1.39</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+            <centric:Description>Overige klacht</centric:Description>
+            <centric:UUID>9bf20eea-380d-45df-a4aa-0e91e591ce4f</centric:UUID>
+          </centric:ReasonInfo>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4902778916469</centric:RegisteredPOSIdentity>
+        </Return>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>5</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:18.676+02:00</BeginDateTime>
+        <Return ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4902778916544</POSItemID>
+          </POSIdentity>
+          <ItemID>65542</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>Posca stift breed 8 mm</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>7.99</RegularSalesUnitPrice>
+          <ExtendedAmount>7.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">7.99</TaxableAmount>
+            <Amount Currency="EUR">1.39</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:ReasonInfo xmlns:centric="http://www.centric.eu/POSLog">
+            <centric:Description>Overige klacht</centric:Description>
+            <centric:UUID>9bf20eea-380d-45df-a4aa-0e91e591ce4f</centric:UUID>
+          </centric:ReasonInfo>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4902778916544</centric:RegisteredPOSIdentity>
+        </Return>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>6</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:28.536+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320185140111</POSItemID>
+          </POSIdentity>
+          <ItemID>85253</ItemID>
+          <MerchandiseHierarchy Level="3">001.0530.5300</MerchandiseHierarchy>
+          <Description>Panduro knutsellijm 50 ml</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>1.99</RegularSalesUnitPrice>
+          <ExtendedAmount>1.79</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.2</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.2</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">1.79</TaxableAmount>
+            <Amount Currency="EUR">0.31</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320185140111</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>7</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:30.724+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>980003</POSItemID>
+          </POSIdentity>
+          <ItemID>980003</ItemID>
+          <MerchandiseHierarchy Level="3">012.9000.9004</MerchandiseHierarchy>
+          <Description>Pipoos papieren tas</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>0.25</RegularSalesUnitPrice>
+          <ExtendedAmount>0.22</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.03</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.03</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.22</TaxableAmount>
+            <Amount Currency="EUR">0.04</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>8</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:36.393+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4004764966790</POSItemID>
+          </POSIdentity>
+          <ItemID>61638</ItemID>
+          <MerchandiseHierarchy Level="3">001.0300.3006</MerchandiseHierarchy>
+          <Description>edding 5200 permanent spray 20</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>9.99</RegularSalesUnitPrice>
+          <ExtendedAmount>0</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">9.99</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.99</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">9.99</Amount>
+            <PromotionID>202205001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>202205001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">edding 5200 permanent spray 2+1</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">0.99</TaxableAmount>
+            <Amount Currency="EUR">0.17</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4004764966790</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>9</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:48.021+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4004764967315</POSItemID>
+          </POSIdentity>
+          <ItemID>61663</ItemID>
+          <MerchandiseHierarchy Level="3">001.0300.3006</MerchandiseHierarchy>
+          <Description>edding 5200 permanent spray 20</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>9.99</RegularSalesUnitPrice>
+          <ExtendedAmount>8.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">1</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">8.99</TaxableAmount>
+            <Amount Currency="EUR">1.56</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4004764967315</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>10</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:51.017+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4004764966813</POSItemID>
+          </POSIdentity>
+          <ItemID>61639</ItemID>
+          <MerchandiseHierarchy Level="3">001.0300.3006</MerchandiseHierarchy>
+          <Description>edding 5200 permanent spray 20</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>9.99</RegularSalesUnitPrice>
+          <ExtendedAmount>9.00</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.99</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.99</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">9.00</TaxableAmount>
+            <Amount Currency="EUR">1.56</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4004764966813</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>11</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:52:54.180+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4004764967230</POSItemID>
+          </POSIdentity>
+          <ItemID>61659</ItemID>
+          <MerchandiseHierarchy Level="3">001.0300.3006</MerchandiseHierarchy>
+          <Description>edding 5200 permanent spray 20</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>9.99</RegularSalesUnitPrice>
+          <ExtendedAmount>16.99</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">12.98</ExtendedDiscountAmount>
+          <Quantity>3</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">2.99</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>2</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">9.99</Amount>
+            <PromotionID>202205001</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>202205001</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">edding 5200 permanent spray 2+1</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">16.99</TaxableAmount>
+            <Amount Currency="EUR">2.96</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4004764967230</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>12</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:53:22.673+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4057305026385</POSItemID>
+          </POSIdentity>
+          <ItemID>61245</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>edding 5000 acrylic marker 910</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>5.79</RegularSalesUnitPrice>
+          <ExtendedAmount>5.21</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.58</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.58</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">5.21</TaxableAmount>
+            <Amount Currency="EUR">0.9</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4057305026385</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>13</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:53:25.918+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4057305026538</POSItemID>
+          </POSIdentity>
+          <ItemID>61247</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>edding 5000 acrylic marker 916</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>5.79</RegularSalesUnitPrice>
+          <ExtendedAmount>5.21</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.58</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.58</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">5.21</TaxableAmount>
+            <Amount Currency="EUR">0.9</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4057305026538</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>14</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:53:27.916+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4057305026118</POSItemID>
+          </POSIdentity>
+          <ItemID>61241</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>edding 5000 acrylic marker 905</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>5.79</RegularSalesUnitPrice>
+          <ExtendedAmount>5.21</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.58</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.58</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">5.21</TaxableAmount>
+            <Amount Currency="EUR">0.9</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4057305026118</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>15</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:53:29.726+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4057305026057</POSItemID>
+          </POSIdentity>
+          <ItemID>61236</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>edding 5000 acrylic marker 902</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>5.79</RegularSalesUnitPrice>
+          <ExtendedAmount>5.21</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.58</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.58</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">5.21</TaxableAmount>
+            <Amount Currency="EUR">0.9</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4057305026057</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>16</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:53:31.907+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4057305026262</POSItemID>
+          </POSIdentity>
+          <ItemID>61238</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>edding 5000 acrylic marker 903</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>5.79</RegularSalesUnitPrice>
+          <ExtendedAmount>5.21</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.58</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.58</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">5.21</TaxableAmount>
+            <Amount Currency="EUR">0.9</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4057305026262</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>17</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:53:35.068+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>4057305026415</POSItemID>
+          </POSIdentity>
+          <ItemID>61253</ItemID>
+          <MerchandiseHierarchy Level="3">001.0330.3304</MerchandiseHierarchy>
+          <Description>edding 5000 acrylic marker 926</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>5.79</RegularSalesUnitPrice>
+          <ExtendedAmount>5.21</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.58</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.58</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">5.21</TaxableAmount>
+            <Amount Currency="EUR">0.9</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">4057305026415</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>18</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:53:43.659+02:00</BeginDateTime>
+        <Sale ItemType="Stock" centric:RestrictionValidationFlag="true" xmlns:centric="http://www.centric.eu/POSLog">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8713995554169</POSItemID>
+          </POSIdentity>
+          <ItemID>98307</ItemID>
+          <MerchandiseHierarchy Level="3">001.0520.5203</MerchandiseHierarchy>
+          <Description>Hobbyschaar - 17 cm</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.99</RegularSalesUnitPrice>
+          <ExtendedAmount>3.59</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.4</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.4</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description>Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.59</TaxableAmount>
+            <Amount Currency="EUR">0.62</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity>8713995554169</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>19</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:54:08.046+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>8716133007183</POSItemID>
+          </POSIdentity>
+          <ItemID>92859</ItemID>
+          <MerchandiseHierarchy Level="3">001.0530.5302</MerchandiseHierarchy>
+          <Description>Extra sticky dubbelzijdig tape</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>3.75</RegularSalesUnitPrice>
+          <ExtendedAmount>3.37</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">0.38</ExtendedDiscountAmount>
+          <Quantity>1</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">0.38</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">3.37</TaxableAmount>
+            <Amount Currency="EUR">0.58</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">8716133007183</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>20</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:54:10.186+02:00</BeginDateTime>
+        <Sale ItemType="Stock">
+          <POSIdentity POSIDType="EAN13">
+            <POSItemID>7320186800298</POSItemID>
+          </POSIdentity>
+          <ItemID>26873</ItemID>
+          <MerchandiseHierarchy Level="3">001.0530.5302</MerchandiseHierarchy>
+          <Description>Dubbelzijdige tape 6 mm/13 m</Description>
+          <TaxIncludedInPriceFlag>true</TaxIncludedInPriceFlag>
+          <RegularSalesUnitPrice>4.39</RegularSalesUnitPrice>
+          <ExtendedAmount>11.85</ExtendedAmount>
+          <ExtendedDiscountAmount Currency="EUR">1.32</ExtendedDiscountAmount>
+          <Quantity>3</Quantity>
+          <SellingLocation Level="1" centric:CodOrigin="1" centric:Origin="Checkout" xmlns:centric="http://www.centric.eu/POSLog">Store</SellingLocation>
+          <Associate>
+            <AssociateID OperatorName="Jessica " EmployeeID="455" />
+          </Associate>
+          <RetailPriceModifier MethodCode="Promotion">
+            <SequenceNumber>1</SequenceNumber>
+            <Amount Currency="EUR" Action="Subtract">1.32</Amount>
+            <PromotionID>100000020</PromotionID>
+            <PriceDerivationRule>
+              <PriceDerivationRuleID>100000020</PriceDerivationRuleID>
+            </PriceDerivationRule>
+            <centric:Description xmlns:centric="http://www.centric.eu/POSLog">Terugkom-actie 10% korting</centric:Description>
+          </RetailPriceModifier>
+          <Tax TaxType="VAT">
+            <TaxableAmount Currency="EUR" TaxIncludedInTaxableAmountFlag="true">11.85</TaxableAmount>
+            <Amount Currency="EUR">2.06</Amount>
+            <Percent>21</Percent>
+            <TaxRuleID>2</TaxRuleID>
+          </Tax>
+          <centric:RegisteredPOSIdentity xmlns:centric="http://www.centric.eu/POSLog">7320186800298</centric:RegisteredPOSIdentity>
+        </Sale>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>21</SequenceNumber>
+        <Discount>
+          <Amount>0.99</Amount>
+        </Discount>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>22</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:55:51.161+02:00</BeginDateTime>
+        <Tender centric:Classification="500.9500.5000" TypeCode="Sale" TenderType="centric:Rounding" xmlns:centric="http://www.centric.eu/POSLog">
+          <Amount Currency="EUR">0.02</Amount>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>23</SequenceNumber>
+        <BeginDateTime>2022-05-17T17:55:51.161+02:00</BeginDateTime>
+        <Tender centric:Classification="800.9800.8000" TypeCode="Sale" TenderType="Cash" xmlns:centric="http://www.centric.eu/POSLog">
+          <TenderID>01</TenderID>
+          <Amount Currency="EUR">46.1</Amount>
+          <centric:Description>Contant</centric:Description>
+        </Tender>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>24</SequenceNumber>
+        <centric:ActivationVoucher Type="Store" xmlns:centric="http://www.centric.eu/POSLog">
+          <centric:Barcode>00000132</centric:Barcode>
+        </centric:ActivationVoucher>
+      </LineItem>
+      <LineItem>
+        <SequenceNumber>25</SequenceNumber>
+        <LoyaltyReward>
+          <PromotionID>100000000</PromotionID>
+          <LoyaltyID Name="Points">1</LoyaltyID>
+          <PointsAwarded Type="Credited">17</PointsAwarded>
+          <centric:PromotionDescription xmlns:centric="http://www.centric.eu/POSLog">Zegels</centric:PromotionDescription>
+        </LoyaltyReward>
+      </LineItem>
+      <RestrictionValidation CustomerQuestionID="centric:CustomerAge">
+        <QuestionAnswer>16+</QuestionAnswer>
+      </RestrictionValidation>
+    </RetailTransaction>
+  </Transaction>
+</POSLog>
